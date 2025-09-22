@@ -124,10 +124,14 @@ def api_migrate():
                 "sample": combine_res.get("sample", [])
             },
             "vault": vault_res
+            
         }
+        print("My result",vault_res)
+        
         return jsonify(resp)
     except Exception as e:
         traceback.print_exc()
+        print("Inside Exception:", str(e))
         return jsonify({"error": str(e), "trace": traceback.format_exc()}), 500
 
 if __name__ == "__main__":

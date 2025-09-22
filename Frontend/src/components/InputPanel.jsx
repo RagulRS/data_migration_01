@@ -61,7 +61,9 @@ const InputPanel = ({ setSnackbar }) => {
       }
 
       const data = await res.json();
+      console.log("Response data:", data);
       setResults(data);
+        
       setSnackbar({ open: true, message: "Completed", severity: "success" });
     } catch (err) {
       console.error(err);
@@ -73,6 +75,7 @@ const InputPanel = ({ setSnackbar }) => {
     }
   };
 
+console.log("Results:", results);
   return (
     <>
       <Paper sx={{ p: 4, borderRadius: 3, boxShadow: 3, mb: 3 }}>
@@ -125,8 +128,7 @@ const InputPanel = ({ setSnackbar }) => {
 
             <Grid item xs={12}>
               <Typography>
-                Upload Target Design Spec (CSV or XLSX). We'll use the
-                Form_Definition sheet / Item Name column.
+                Upload Target Design Spec
               </Typography>
               <input
                 type="file"

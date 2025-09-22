@@ -18,11 +18,15 @@ def combine_forms(csv_source_folder, comparison_result_file, target_spec_file,
     comparison_result_file = Path(comparison_result_file)
     target_spec_file = Path(target_spec_file)
     transformed_output_file = Path(transformed_output_file)
-
+    source_spec_with_occurrence_file = Path(source_spec_with_occurrence_file)
+    target_spec_with_occurrence_file = Path(target_spec_with_occurrence_file)
+    
     print("Combining form CSVs from:", csv_source_folder)
 
     # read helper spec files
     # source_spec_with_occurrence_file and target_spec_with_occurrence_file are optional
+    source_df = pd.read_excel(source_spec_with_occurrence_file)
+    target_df = pd.read_excel(target_spec_with_occurrence_file)
     # target spec used for form definitions / codelists
     form_def_df = pd.read_excel(target_spec_file, sheet_name='Form Definitions', engine='openpyxl')
     try:
@@ -43,8 +47,17 @@ def combine_forms(csv_source_folder, comparison_result_file, target_spec_file,
         event_order = schedule_df.iloc[1].dropna().tolist()
     except Exception:
         event_order = []
-
     transformed_data = []
+
+    def get_event_details(event_label, form_label):
+            source_match = source_df[(source_df['Event'] == event_label) & (source_df['Form'] == form_label)]
+            if source_match.empty:
+                return None
+            occurrence_value = source_match.iloc[0]['Occurrence']
+            target_match = target_df[(target_df['Occurrence'] == occurrence_value) & (target_df['Form'] == form_label)]
+            if target_match.empty:
+                return None
+            return target_match[['Event Group', 'Event Group Name', 'Event', 'Event Name']]
 
     def get_choice_code(item_name, choice_label):
         if form_def_df is None or form_def_df.empty:
@@ -94,8 +107,9 @@ def combine_forms(csv_source_folder, comparison_result_file, target_spec_file,
                         form_name = matched_row.get('Form Name', '')
                         if csv_item_name == str(item_name).strip().lower():
                             for _, csv_row in csv_df.iterrows():
-                                event_label = csv_row.get('Event Label')
+                                # event_label = csv_row.get('Event Label')
                                 form_label = csv_row.get('Form Label')
+                                event_details = get_event_details(csv_row.get('Event Label'), csv_row.get('Form Label'))
                                 # attempt to find occurrence via event/form (this logic expects presence of occurrence files; it's kept simple)
                                 item_data = get_choice_code(item_name, csv_row.get(col))
                                 if item_data == "Not codelist":
@@ -113,20 +127,25 @@ def combine_forms(csv_source_folder, comparison_result_file, target_spec_file,
                                         item_data = str(item_data).strip()
 
                                 # event details are simplified here
-                                transformed_data.append({
-                                    "Study": csv_row.get("Study", ""),
-                                    "Study Country": csv_row.get("Study Country", ""),
-                                    "Study Site": csv_row.get("Study Site", ""),
-                                    "Subject": csv_row.get("Subject", ""),
-                                    "Event Label": event_label,
-                                    "Form Label": form_label,
-                                    "Form Name": form_name,
-                                    "Form Status": csv_row.get("Form Status", ""),
-                                    "Item Group": item_group,
-                                    "Item Name": item_name,
-                                    "Item Data": item_data,
-                                    "Event Date": csv_row.get("Event Date", "")
-                                })
+                                if event_details is not None and item_data is not None:
+                                    event_gl, event_gn, event_la, event_n = event_details.iloc[0]
+                                    transformed_data.append({
+                                        "Study": csv_row.get("Study", ""),
+                                        "Study Country": csv_row.get("Study Country", ""),
+                                        "Study Site": csv_row.get("Study Site", ""),
+                                        "Subject": csv_row.get("Subject", ""),
+                                        "Event Group Label": event_gl,
+                                        "Event Group Name": event_gn,
+                                        "Event Label": event_la,
+                                        "Event Name": event_n,
+                                        "Form Label": form_label,
+                                        "Form Name": form_name,
+                                        "Form Status": csv_row.get("Form Status", ""),
+                                        "Item Group": item_group,
+                                        "Item Name": item_name,
+                                        "Item Data": item_data,
+                                        "Event Date": csv_row.get("Event Date", "")
+                                    })
 
     final_df = pd.DataFrame(transformed_data)
     if event_order:

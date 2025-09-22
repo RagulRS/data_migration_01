@@ -34,11 +34,13 @@ def migrate_to_vault(transformed_output_file, study_name, site_number, study_cou
     failure_itemgs = []
 
     def authenticate():
+
         url = f"https://{VAULT_DNS}/api/{API_VERSION}/auth"
         data = {"username": USERNAME, "password": PASSWORD}
         resp = requests.post(url, data=data)
         resp.raise_for_status()
         return resp.json().get("sessionId")
+
 
     # reusing your logic but parameterized
     def extract_failed_items(response_json, data_df=None, session_id=None):
@@ -136,7 +138,9 @@ def migrate_to_vault(transformed_output_file, study_name, site_number, study_cou
     migration_log = []
     try:
         session_id = authenticate()
+        print("Session ID obtained.", session_id)
         target_data = pd.read_csv(transformed_output_file)
+        print("Migrate");
         # if old/new subj lists given map them else skip
         if not old_subj_list:
             return {"skipped": True, "message": "No subject mapping provided. Provide subjects mapping in the frontend."}
