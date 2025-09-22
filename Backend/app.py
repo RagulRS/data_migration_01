@@ -3,6 +3,7 @@ from flask import Flask, request, jsonify
 from werkzeug.utils import secure_filename
 from pathlib import Path
 import os, traceback
+from flask_cors import CORS
 
 # Make project paths
 BASE_DIR = Path(__file__).resolve().parent
@@ -19,6 +20,7 @@ import forms_combining as forms_mod
 import vault_migration as vault_mod
 
 app = Flask(__name__)
+CORS(app)
 app.config["MAX_CONTENT_LENGTH"] = 100 * 1024 * 1024  # 100MB max upload
 
 @app.route("/api/migrate", methods=["POST"])
@@ -62,8 +64,8 @@ def api_migrate():
         # output paths (all inside data/)
         comparison_result_file = DATA_DIR / "comparison_result.xlsx"
         # per your request: comment placeholders for these (we set to None now)
-        source_spec_with_occurrence_file = None
-        target_spec_with_occurrence_file = None
+        source_spec_with_occurrence_file = "./data/source_spec_with_occurrence.xlsx"
+        target_spec_with_occurrence_file = "./data/target_spec_with_occurrence.xlsx"
 
         transformed_output_file = DATA_DIR / "transformed_output.csv"
         failed_items_output_file = DATA_DIR / "failed_items_output.txt"
@@ -90,10 +92,10 @@ def api_migrate():
 
         # 3) Migrate to Veeva Vault — only if environment variables are set
         vault_config = {
-            "VAULT_DNS": os.getenv("VAULT_DNS"),
-            "API_VERSION": os.getenv("VAULT_API_VERSION", "v23.2"),
-            "USERNAME": os.getenv("VAULT_USERNAME"),
-            "PASSWORD": os.getenv("VAULT_PASSWORD")
+            "VAULT_DNS": "sb-cognizant-cdms.veevavault.com",
+            "API_VERSION": "v23.2",
+            "USERNAME": "Vigneshwaran.P_SD@sb-cognizant.com",
+            "PASSWORD": "Vikkyda@0108..."
         }
 
         if not (vault_config["VAULT_DNS"] and vault_config["USERNAME"] and vault_config["PASSWORD"]):

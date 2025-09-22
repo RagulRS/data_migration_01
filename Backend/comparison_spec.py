@@ -3,7 +3,7 @@ import pandas as pd
 from pathlib import Path
 
 def compare_specifications(source_spec_file, target_spec_file, comparison_result_file,
-                           source_spec_with_occurrence_file=None, target_spec_with_occurrence_file=None):
+                           source_spec_with_occurrence_file="./data/source_spec_with_occurrence.xlsx", target_spec_with_occurrence_file=None):
     """
     Compare form/field definitions between source_spec_file and target_spec_file.
     - source_spec_file, target_spec_file, comparison_result_file are Path-like or strings.

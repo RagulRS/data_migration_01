@@ -1,0 +1,1232 @@
+Study,Study Country,Study Site,Subject,Event Label,Form Label,Form Name,Form Status,Item Group,Item Name,Item Data,Event Date
+M20-371_DEV1,India,1001,SCR-0001,Informed Consent,Informed Consent,DS_IC_F,Submitted,ig_DS_IC_F,DSSTDAT_T_WTHDRAWN,2025-09-15,01-09-2025
+M20-371_DEV1,India,1001,SCR-0001,Informed Consent,Informed Consent,DS_IC_F,Submitted,ig_DS_IC_F,DSSTDAT_T_WTHDRAWN,2025-09-15,01-09-2025
+M20-371_DEV1,India,1001,SCR-0001,Screening,TB Screening,AG_TB_SCR,Submitted,ig_AG_TB_SCR,AG_CATEGORY,3,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,TB Screening,AG_TB_SCR,Submitted,ig_AG_TB_SCR,CM_OCCUR,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,TB Screening,AG_TB_SCR,Submitted,ig_tb_screening2,AG_TREATMENT,1,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,TB Screening,AG_TB_SCR,Submitted,ig_tb_screening2,AG_PPD_PERFORMED,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,TB Screening,AG_TB_SCR,Submitted,ig_tb_screening2,AG_START_DT,2025-08-31,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,TB Screening,AG_TB_SCR,Submitted,ig_tb_screening2,SR_OBJECT,1,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,TB Screening,AG_TB_SCR,Submitted,ig_tb_screening2,SR_DT,2025-09-01,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,TB Screening,AG_TB_SCR,Submitted,ig_tb_screening2,SR_RES_INDURATION,34,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,TB Screening,AG_TB_SCR,Submitted,ig_tb_screening2,SR_RES_INDURATION_U,033,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,TB Screening,AG_TB_SCR,Submitted,ig_tb_screening2,LB_CATEGORY1,5,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,TB Screening,AG_TB_SCR,Submitted,ig_tb_screening2,LB_SPECIMEN_SITE_1,5,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,TB Screening,AG_TB_SCR,Submitted,ig_tb_screening2,LB_QFTB_PERFORMED,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,TB Screening,AG_TB_SCR,Submitted,ig_tb_screening2,LB_SAMPLE_DT_1,2025-08-31,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,TB Screening,AG_TB_SCR,Submitted,ig_tb_screening2,LB_RESULT_1,5,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,TB Screening,AG_TB_SCR,Submitted,ig_tb_screening2,MH_TERM1,617,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,TB Screening,AG_TB_SCR,Submitted,ig_tb_screening2,MH_ACTIVE_TB,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,TB Screening,AG_TB_SCR,Submitted,ig_tb_screening2,MH_TERM2,975,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,TB Screening,AG_TB_SCR,Submitted,ig_tb_screening2,MH_LATENT_TB,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Demographics,DM_F,Submitted,ig_DM_F,_R_AGE,nan,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Demographics,DM_F,Submitted,ig_DM_F,RACEW,true,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Demographics,DM_F,Submitted,ig_DM_F,RACEB,true,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Demographics,DM_F,Submitted,ig_DM_F,CRACE4,nan,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Demographics,DM_F,Submitted,ig_DM_F,CRACE7,nan,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Demographics,DM_F,Submitted,ig_DM_F,RACEI,true,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_DCMDATE,2023-08-01,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_TYPE_VISIT,1,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_BDG_ADD,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_ENDO,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_CDAI,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_TRANSACTION_DT,2024-06-09,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_datetime,EGDAT,2024-12-30,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_datetime,EGTIM,10:00,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_datetime,EGPOS,3,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_heart_rate,EGORRES_T_HRMEAN,34,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_heart_rate,EGORRESU_T_HRMEAN,122,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_rr_interval,EGORRES_T_RRAG,45,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_rr_interval,EGORRESU_T_RRAG,406,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_pr_interval,EGORRES_T_PRAG,56,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_pr_interval,EGORRESU_T_PRAG,406,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_qrs_duration,EGORRES_T_QRSAG,67,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_qrs_duration,EGORRESU_T_QRSAG,406,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_qt_aggre,EGORRES_T_QTAG,78,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_qt_aggre,EGORRESU_T_QTAG,406,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGORRES_T_INTP,2,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGCLSIG_T_INTP,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_AVCOND_1STAVB,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_AXISVOLT_INDAXIS,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_AXISVOLT_RAXDV,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_AXISVOLT_LAXDV,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_CHYPTENL_LVHYP,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_CHYPTENL_RVHYP,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_CHYPTENL_LVHNS,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_STSTWUW_EREPL,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_STSTWUW_PQT,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_STSTWUW_STDEP,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_STSTWUW_STELV,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_STSTWUW_TINV,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_STSTWUW_TPEAK,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_STSTWUW_TFLAT,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_STSTWUW_TALT,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_STSTWUW_TBIPH,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_STSTWUW_UABN,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_VTARRY_PVCI,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_SNRARRY_SBRDY,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_SNRARRY_STCHY,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_IVTIACD_RBBB,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_IVTIACD_RVCD,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Enrollment Failure,ENR_F,Submitted,ig_ENR_F,_R_ENROLLFAILYN,N,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Enrollment Failure,ENR_F,Submitted,ig_ENR_F,_R_AESCRYN,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Enrollment Failure,ENR_F,Submitted,ig_ENR_F,_O_RATE1,nan,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,TB Risk Assessment Questionnaire,ER,Submitted,ig_ER,ER_TERM1,12,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Eligibility Criteria,IE_F,Submitted,ig_IE_F,IECAT,1,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Eligibility Criteria,IE_F,Submitted,ig_IE_F,SCORRES_T_PROTVERE,8,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Eligibility Criteria,IE_F,Submitted,ig_IE_F,_R_IEYN,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Eligibility Criteria,IE_F,Submitted,ig_IE_F2,IECTESTCD,12,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Medical History,MH_F,Submitted,ig_MH2,MHONGO,true,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Medical History,MH_F,Submitted,ig_MH2,_R_MHCTCYN,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,MH_ONSET_DT,2024-08-20,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,PR_TRT,58,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,PR_START_DT,2024-08-21,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,CC_SUBCATEGORY,6,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,CC_RES_AGEDIAG,2,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,CC_RES_L1_ILEAL,true,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,CC_RES_L2_COLNICDISE,true,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,CC_RES_L3_ILEOCOLIC,true,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,CC_RES_L4_CMDSUPGIT,true,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,CC_RES_B1_NONSTPENE,true,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,CC_RES_B2_STENOSING,true,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,CC_RES_B3_PENETRTING,nan,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,CC_RES_P_CMPRINLDIS,true,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Chest X-Ray,MO_XR,Submitted,ig_Chest_X_Ray,MO_DT,2025-08-31,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Chest X-Ray,MO_XR,Submitted,ig_Chest_X_Ray,MO_RES_PLEURAL_SCAR,2,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Chest X-Ray,MO_XR,Submitted,ig_Chest_X_Ray,MO_RES_ACTIVE_TB,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Crohn's Disease Surgical History,PR_CDSH,Submitted,ig_PR_CDSH,PR_START_DT2,2025-06-29,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Crohn's Disease Surgical History,PR_CDSH,Submitted,ig_PR_CDSH,PR_TRT2,62,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Endoscopy (Screening),PR_ENDOS,Submitted,ig_PR_ENDOS2,PR_INDC_CONFM_DIAGN,true,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_DD_NAME_SES_CD,1,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_STAT_TRANSV_CLN,N,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_STAT_RGT_CLN,Y,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_SUBCATEGORY,53,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_REFID1_1,1,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_LOCATION,566,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_SESCD_RTM_SZU_C1,2,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_REFID3,3,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_LOCATION3,116,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_REFID4,4,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_REFID6,6,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_LOCATION7,112,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_REFID10,10,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_SESCD_ILM_USF_C10,2,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_REFID11,11,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_SESCD_RTM_ASF_C11,3,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_REFID12,12,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_SESCD_SLC_ASF_C12,0,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_REFID13,13,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_SESCD_TRC_ASF_C13,1,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_LOCATION14,114,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_REFID15,15,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_SESCD_ILM_ASF_C15,3,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_LOCATION16,566,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_SESCD_RTM_PRN_C16,0,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_REFID22,22,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_SESCD_SBT_USF_C22,2,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,QS_REFID24,24,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,SES-CD,QS_SES_CD,Submitted,ig_QS_SES_CD,TRIGGER_ILEAL,nan,19-09-2024
+M20-371_DEV1,India,1001,SCR-0001,Screening,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F,_R_PT_ID_REFER,1,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F2,_R_ST_PPR_CHRT,true,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F2,_R_ST_EMR_HER,true,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F2,_R_ST_TRINETX,true,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F2,_R_ST_OTHER,Aaaaaaaa_1,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F2,_R_ST_DONT_KNOW,true,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_CLIN_REG,nan,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_ABV,nan,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_STDY_WB,nan,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_SOC_MED,nan,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_OTHER_AD,nan,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_TV_AD,nan,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_PRINT,nan,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_PHYS,nan,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_FRIEND,nan,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_COMMUN,nan,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_PT_SUPP,nan,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_OTHER,nan,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_DONT_REM,nan,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Nicotine and Alcohol Use,SU_F,Submitted,ig_SU_F,SUCDURU,YEARS,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Nicotine and Alcohol Use,SU_F,Submitted,ig_SU_F,SUCAT_C_NU1,1,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Nicotine and Alcohol Use,SU_F,Submitted,ig_SU_F,SUYN_T_NICOTINE,Y,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Nicotine and Alcohol Use,SU_F,Submitted,ig_SU_F,SUCAT_C_NU2,1,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Nicotine and Alcohol Use,SU_F,Submitted,ig_SU_F,SUNCF_T_PIPES,3,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Nicotine and Alcohol Use,SU_F,Submitted,ig_SU_F,SUDOSFRQ_T_PIPES,40,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Nicotine and Alcohol Use,SU_F,Submitted,ig_SU_F,SUENDAT_T_PIPES,2025-08-31,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Nicotine and Alcohol Use,SU_F,Submitted,ig_SU_F,SUDOSFRQ_T_CIGARS,40,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Nicotine and Alcohol Use,SU_F,Submitted,ig_SU_F,SUNCF_T_SMOKELESS,3,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Nicotine and Alcohol Use,SU_F,Submitted,ig_SU_F,_R_STLT_RECORDID2,234,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Vital Signs,VS_F,Submitted,ig_vs_f,VSPOS_T_BP,1,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Vital Signs,VS_F,Submitted,ig_vs_f,VSORRES_T_SYSBP1,43,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Vital Signs,VS_F,Submitted,ig_vs_f,VSORRES_T_HR1,45,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Vital Signs,VS_F,Submitted,ig_vs_f,VSORRESU_T_HR,2,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Vital Signs,VS_F,Submitted,ig_vs_f,VSORRES_T_TEMP1,28,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Screening,Vital Signs,VS_F,Submitted,ig_vs_f,VSORRESU_T_RESP,3,2023-07-05
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Submitted,ig_CC_CDAI2,CC_SUBCATEGORY2,1,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Submitted,ig_CC_CDAI2,CC_DT_TPT_DAY2,2022-09-16,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Submitted,ig_CC_CDAI2,CC_DT_TPT_DAY3,2022-09-18,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Submitted,ig_CC_CDAI2,CC_DT_TPT_DAY4,2022-09-20,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Submitted,ig_CC_CDAI2,CC_DT_TPT_DAY7,2022-09-26,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Submitted,ig_CC_CDAI2,CC_RES_DAYSTOOL_D3,3,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Submitted,ig_CC_CDAI2,CC_RES_DAYSTOOL_D5,5,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Submitted,ig_CC_CDAI2,CC_RES_DAYSTOOL_D7,7,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Submitted,ig_CC_CDAI2,CC_RES_SUM_STOOL,28,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Submitted,ig_CC_CDAI2,CC_SUBCATEGORY3,2,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Submitted,ig_CC_CDAI2,CC_RES_ABDPNRT_D2,1,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Submitted,ig_CC_CDAI2,CC_RES_ABDPNRT_D6,1,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Submitted,ig_CC_CDAI2,CC_RES_ABDPNRT_D7,2,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Submitted,ig_CC_CDAI2,CC_RES_GENWB_D2,1,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Submitted,ig_CC_CDAI2,CC_RES_GENWB_D5,4,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Submitted,ig_CC_CDAI2,CC_RES_GENWB_D7,1,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Submitted,ig_CC_CDAI2,CC_RES_SUM_GEN_WB,11,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Submitted,ig_CC_CDAI2,FA_RES_OCC_ARTHR,true,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Submitted,ig_CC_CDAI2,CC_RES_ABD_MASS,2,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Submitted,ig_CC_CDAI2,CC_RES_HEMATOCRIT,46,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Submitted,ig_cdai4,CC_RES_SUBTOT_HCT,nan,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Submitted,ig_cdai4,CC_RES_BODY_WGHT,76,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Submitted,ig_cdai2,CC_RES_STD_WGHT,80,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Submitted,ig_cdai2,CC_RES_STD_WGHT_U,001,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Submitted,ig_cdai3,CC_RES_TOTAL,nan,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_DCMDATE,2022-09-14,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_TYPE_VISIT,1,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_BDG_ADD,Y,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_ENDO,Y,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_CDAI,Y,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_TRANSACTION_DT,2022-09-15,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Randomization,DS_RN_F,Submitted,ig_DS_RN_F,DSCAT_C_PM,1,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Randomization,DS_RN_F,Submitted,ig_DS_RN_F,RANDNO,12,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Pregnancy Test (Urine) (1),LB_PREG_F,Submitted,ig_LB_PREG1_F,LBRES_T_HCG,2,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Pregnancy Test (Urine) (1),LB_PREG_F,Submitted,ig_LB_PREG_F,LBREASND_T_HCG,1,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Vital Signs,VS_F,Submitted,ig_vs_f,VSPOS_T_BP,1,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Vital Signs,VS_F,Submitted,ig_vs_f,VSORRES_T_SYSBP1,72,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Vital Signs,VS_F,Submitted,ig_vs_f,VSORRES_T_HR1,72,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Vital Signs,VS_F,Submitted,ig_vs_f,VSORRESU_T_HR,2,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Vital Signs,VS_F,Submitted,ig_vs_f,VSORRES_T_TEMP1,101,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Baseline,Vital Signs,VS_F,Submitted,ig_vs_f,VSORRESU_T_RESP,3,2022-09-14
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_SUBCATEGORY2,1,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_DT_TPT_DAY2,2022-09-18,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_DT_TPT_DAY3,2022-09-19,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_DT_TPT_DAY4,2022-09-20,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_DT_TPT_DAY7,2022-09-24,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_DAYSTOOL_D3,3,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_DAYSTOOL_D5,5,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_DAYSTOOL_D7,7,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_SUM_STOOL,28,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,TRIGGER_AVGSF3,3.111,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_SUBCATEGORY3,2,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_ABDPNRT_D2,2,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_ABDPNRT_D6,2,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_ABDPNRT_D7,1,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_GENWB_D2,3,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_GENWB_D5,0,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_GENWB_D7,3,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_SUM_GEN_WB,17,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,FA_RES_OCC_ARTHR,true,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_ABD_MASS,5,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_HEMATOCRIT,12,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_SUBTOT_HCT,nan,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_BODY_WGHT,76,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_TOTAL,nan,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_DCMDATE,2022-09-17,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_TYPE_VISIT,1,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_BDG_ADD,N,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_ENDO,N,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_CDAI,N,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_TRANSACTION_DT,2022-09-18,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Vital Signs,VS_F,Submitted,ig_vs_f,VSPOS_T_BP,1,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Vital Signs,VS_F,Submitted,ig_vs_f,VSORRES_T_SYSBP1,72,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Vital Signs,VS_F,Submitted,ig_vs_f,VSORRES_T_HR1,72,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Vital Signs,VS_F,Submitted,ig_vs_f,VSORRESU_T_HR,2,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Vital Signs,VS_F,Submitted,ig_vs_f,VSORRES_T_TEMP1,34,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Induction Week,Vital Signs,VS_F,Submitted,ig_vs_f,VSORRESU_T_RESP,3,2022-09-18
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_SUBCATEGORY2,1,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_DT_TPT_DAY2,2024-09-20,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_DT_TPT_DAY3,2024-09-21,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_DT_TPT_DAY4,2024-09-22,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_DT_TPT_DAY7,2024-09-25,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_DAYSTOOL_D3,1,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_DAYSTOOL_D5,1,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_DAYSTOOL_D7,1,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_SUM_STOOL,7,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,TRIGGER_AVGSF3,0.875,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_SUBCATEGORY3,2,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_ABDPNRT_D2,1,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_ABDPNRT_D6,0,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_ABDPNRT_D7,0,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_GENWB_D2,1,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_GENWB_D5,4,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_GENWB_D7,1,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_SUM_GEN_WB,11,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,FA_RES_OCC_ARTHR,true,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_ABD_MASS,0,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_HEMATOCRIT,12,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_SUBTOT_HCT,nan,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_BODY_WGHT,76,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Crohn's Disease Activity Index (CDAI),CC_CDAI,Submitted,ig_CC_CDAI,CC_RES_TOTAL,nan,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_DCMDATE,2024-09-19,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_TYPE_VISIT,2,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_BDG_ADD,N,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_ENDO,Y,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_CDAI,N,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_TRANSACTION_DT,2024-09-19,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_datetime,EGDAT,2024-09-19,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_datetime,EGTIM,12:00,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_datetime,EGPOS,3,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_heart_rate,EGORRES_T_HRMEAN,72,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_heart_rate,EGORRESU_T_HRMEAN,122,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_rr_interval,EGORRES_T_RRAG,72,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_rr_interval,EGORRESU_T_RRAG,406,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_pr_interval,EGORRES_T_PRAG,72,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_pr_interval,EGORRESU_T_PRAG,406,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_qrs_duration,EGORRES_T_QRSAG,72,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_qrs_duration,EGORRESU_T_QRSAG,406,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_qt_aggre,EGORRES_T_QTAG,72,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_qt_aggre,EGORRESU_T_QTAG,406,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGORRES_T_INTP,2,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGCLSIG_T_INTP,Y,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_AVCOND_1STAVB,Y,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_AXISVOLT_INDAXIS,N,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_AXISVOLT_RAXDV,Y,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_AXISVOLT_LAXDV,N,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_CHYPTENL_LVHYP,Y,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_CHYPTENL_RVHYP,N,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_CHYPTENL_LVHNS,Y,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_STSTWUW_EREPL,N,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_STSTWUW_PQT,Y,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_STSTWUW_STDEP,N,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_STSTWUW_STELV,Y,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_STSTWUW_TINV,N,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_STSTWUW_TPEAK,Y,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_STSTWUW_TFLAT,N,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_STSTWUW_TALT,Y,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_STSTWUW_TBIPH,N,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_STSTWUW_UABN,Y,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_VTARRY_PVCI,N,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_SNRARRY_SBRDY,Y,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_SNRARRY_STCHY,N,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_IVTIACD_RBBB,Y,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Electrocardiogram,EG_F,Submitted,ig_eg_f,EGRES_T_IVTIACD_RVCD,N,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Endoscopy,PR_ENDO,Submitted,ig_PR_ENDO,PR_START_DT3,2024-09-19,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Endoscopy,PR_ENDO,Submitted,ig_PR_ENDO,PR_TRT3,70,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Endoscopy,PR_ENDO,Submitted,ig_PR_ENDO,PR_TRT_BIOPSY_OBTN3,N,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Endoscopy,PR_ENDO,Submitted,ig_PE_ENDO2,PR_INDC_DYSPL_COLONC3,true,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Endoscopy,PR_ENDO,Submitted,ig_PE_ENDO2,PR_INDC_EXPL_RESRCH3,true,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Endoscopy,PR_ENDO,Submitted,ig_PE_ENDO2,PR_NUM_BIOPSY3,3,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Vital Signs,VS_F,Submitted,ig_vs_f,VSPOS_T_BP,1,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Vital Signs,VS_F,Submitted,ig_vs_f,VSORRES_T_SYSBP1,72,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Vital Signs,VS_F,Submitted,ig_vs_f,VSORRES_T_HR1,72,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Vital Signs,VS_F,Submitted,ig_vs_f,VSORRESU_T_HR,2,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Vital Signs,VS_F,Submitted,ig_vs_f,VSORRES_T_TEMP1,72,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,Premature Discontinuation,Vital Signs,VS_F,Submitted,ig_vs_f,VSORRESU_T_RESP,3,2024-09-19
+M20-371_DEV1,India,1001,SCR-0001,,Adverse Events,AE_F,Submitted,ig_AE_F,_O_AESI_CEREBRO,Y,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Adverse Events,AE_F,Submitted,ig_AE_F,_O_AESI_RENAL,Y,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Adverse Events,AE_F,Submitted,ig_AE_F,AESTTIM,12:00,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Adverse Events,AE_F,Submitted,ig_AE_F,AETERM1,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbb_1,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Adverse Events,AE_F,Submitted,ig_AE_F,AEOUT,2,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Adverse Events,AE_F,Submitted,ig_AE_F,_R_COMPLAIN,Y,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Adverse Events,AE_F,Submitted,ig_AE_F,_R_DVYN,Y,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Adverse Events,AE_F,Submitted,ig_AE_F,AE_AERELEP,Y,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Adverse Events,AE_F,Submitted,ig_AE_F,AEREL,2,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Adverse Events,AE_F,Submitted,ig_AE_F,AEACNOTH,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbb_1,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,TB Screening,AG_TB_SCR,Blank,ig_AG_TB_SCR,AG_CATEGORY,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,TB Screening,AG_TB_SCR,Blank,ig_AG_TB_SCR,CM_OCCUR,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,TB Screening,AG_TB_SCR,Blank,ig_tb_screening2,AG_TREATMENT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,TB Screening,AG_TB_SCR,Blank,ig_tb_screening2,AG_PPD_PERFORMED,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,TB Screening,AG_TB_SCR,Blank,ig_tb_screening2,AG_START_DT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,TB Screening,AG_TB_SCR,Blank,ig_tb_screening2,SR_OBJECT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,TB Screening,AG_TB_SCR,Blank,ig_tb_screening2,SR_DT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,TB Screening,AG_TB_SCR,Blank,ig_tb_screening2,SR_RES_INDURATION,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,TB Screening,AG_TB_SCR,Blank,ig_tb_screening2,SR_RES_INDURATION_U,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,TB Screening,AG_TB_SCR,Blank,ig_tb_screening2,LB_CATEGORY1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,TB Screening,AG_TB_SCR,Blank,ig_tb_screening2,LB_SPECIMEN_SITE_1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,TB Screening,AG_TB_SCR,Blank,ig_tb_screening2,LB_QFTB_PERFORMED,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,TB Screening,AG_TB_SCR,Blank,ig_tb_screening2,LB_SAMPLE_DT_1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,TB Screening,AG_TB_SCR,Blank,ig_tb_screening2,LB_RESULT_1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,TB Screening,AG_TB_SCR,Blank,ig_tb_screening2,MH_TERM1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,TB Screening,AG_TB_SCR,Blank,ig_tb_screening2,MH_ACTIVE_TB,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,TB Screening,AG_TB_SCR,Blank,ig_tb_screening2,MH_TERM2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,TB Screening,AG_TB_SCR,Blank,ig_tb_screening2,MH_LATENT_TB,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI),CC_CDAI,Blank,ig_CC_CDAI,CC_SUBCATEGORY2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI),CC_CDAI,Blank,ig_CC_CDAI,CC_DT_TPT_DAY2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI),CC_CDAI,Blank,ig_CC_CDAI,CC_DT_TPT_DAY3,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI),CC_CDAI,Blank,ig_CC_CDAI,CC_DT_TPT_DAY4,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI),CC_CDAI,Blank,ig_CC_CDAI,CC_DT_TPT_DAY7,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI),CC_CDAI,Blank,ig_CC_CDAI,CC_RES_DAYSTOOL_D3,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI),CC_CDAI,Blank,ig_CC_CDAI,CC_RES_DAYSTOOL_D5,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI),CC_CDAI,Blank,ig_CC_CDAI,CC_RES_DAYSTOOL_D7,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI),CC_CDAI,Blank,ig_CC_CDAI,CC_RES_SUM_STOOL,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI),CC_CDAI,Blank,ig_CC_CDAI,TRIGGER_AVGSF3,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI),CC_CDAI,Blank,ig_CC_CDAI,CC_SUBCATEGORY3,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI),CC_CDAI,Blank,ig_CC_CDAI,CC_RES_ABDPNRT_D2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI),CC_CDAI,Blank,ig_CC_CDAI,CC_RES_ABDPNRT_D6,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI),CC_CDAI,Blank,ig_CC_CDAI,CC_RES_ABDPNRT_D7,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI),CC_CDAI,Blank,ig_CC_CDAI,CC_RES_GENWB_D2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI),CC_CDAI,Blank,ig_CC_CDAI,CC_RES_GENWB_D5,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI),CC_CDAI,Blank,ig_CC_CDAI,CC_RES_GENWB_D7,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI),CC_CDAI,Blank,ig_CC_CDAI,CC_RES_SUM_GEN_WB,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI),CC_CDAI,Blank,ig_CC_CDAI,FA_RES_OCC_ARTHR,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI),CC_CDAI,Blank,ig_CC_CDAI,CC_RES_ABD_MASS,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI),CC_CDAI,Blank,ig_CC_CDAI,CC_RES_HEMATOCRIT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI),CC_CDAI,Blank,ig_CC_CDAI,CC_RES_SUBTOT_HCT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI),CC_CDAI,Blank,ig_CC_CDAI,CC_RES_BODY_WGHT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI),CC_CDAI,Blank,ig_CC_CDAI,CC_RES_TOTAL,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Blank,ig_CC_CDAI2,CC_SUBCATEGORY2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Blank,ig_CC_CDAI2,CC_DT_TPT_DAY2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Blank,ig_CC_CDAI2,CC_DT_TPT_DAY3,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Blank,ig_CC_CDAI2,CC_DT_TPT_DAY4,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Blank,ig_CC_CDAI2,CC_DT_TPT_DAY7,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Blank,ig_CC_CDAI2,CC_RES_DAYSTOOL_D3,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Blank,ig_CC_CDAI2,CC_RES_DAYSTOOL_D5,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Blank,ig_CC_CDAI2,CC_RES_DAYSTOOL_D7,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Blank,ig_CC_CDAI2,CC_RES_SUM_STOOL,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Blank,ig_CC_CDAI2,CC_SUBCATEGORY3,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Blank,ig_CC_CDAI2,CC_RES_ABDPNRT_D2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Blank,ig_CC_CDAI2,CC_RES_ABDPNRT_D6,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Blank,ig_CC_CDAI2,CC_RES_ABDPNRT_D7,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Blank,ig_CC_CDAI2,CC_RES_GENWB_D2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Blank,ig_CC_CDAI2,CC_RES_GENWB_D5,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Blank,ig_CC_CDAI2,CC_RES_GENWB_D7,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Blank,ig_CC_CDAI2,CC_RES_SUM_GEN_WB,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Blank,ig_CC_CDAI2,FA_RES_OCC_ARTHR,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Blank,ig_CC_CDAI2,CC_RES_ABD_MASS,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Blank,ig_CC_CDAI2,CC_RES_HEMATOCRIT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Blank,ig_cdai4,CC_RES_SUBTOT_HCT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Blank,ig_cdai4,CC_RES_BODY_WGHT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Blank,ig_cdai2,CC_RES_STD_WGHT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Blank,ig_cdai2,CC_RES_STD_WGHT_U,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Activity Index (CDAI) (Baseline),CC_CDAI2,Blank,ig_cdai3,CC_RES_TOTAL,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,COVID-19 Supplemental Signs/Symptoms,CE_CV19SS,Blank,COVID_3,CESTRTTPT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,COVID-19 Supplemental Signs/Symptoms,CE_CV19SS,Blank,COVID_3,CESTTPT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,COVID-19 Supplemental Signs/Symptoms,CE_CV19SS,Blank,COVID_3,CETERM_C19S,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,COVID-19 Supplemental Signs/Symptoms,CE_CV19SS,Blank,COVID_3,_R_CEAERLYN,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Abnormal Laboratory Value Supplemental,CE_FA_MH_H,Submitted,ig_CE_FA_MH_H_NL,CE_TEST_NAME,10136,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Abnormal Laboratory Value Supplemental,CE_FA_MH_H,Submitted,ig_CE_FA_MH_H_NL,FA_RES_OCC_NONE,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Abnormal Laboratory Value Supplemental,CE_FA_MH_H,Submitted,ig_CE_FA_MH_H_NL,FA_RES_OCC_FATIGUE,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Abnormal Laboratory Value Supplemental,CE_FA_MH_H,Submitted,ig_CE_FA_MH_H_NL,FA_RES_OCC_DARKURINE,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Abnormal Laboratory Value Supplemental,CE_FA_MH_H,Submitted,ig_CE_FA_MH_H_NL,FA_RES_OCC_JAUNDICE,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Abnormal Laboratory Value Supplemental,CE_FA_MH_H,Submitted,ig_CE_FA_MH_H_NL,FA_RES_OCC_ABDPAIN,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Abnormal Laboratory Value Supplemental,CE_FA_MH_H,Submitted,ig_CE_FA_MH_H_NL,FA_RES_OCC_CONFUSION,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Abnormal Laboratory Value Supplemental,CE_FA_MH_H,Submitted,ig_CE_FA_MH_H_NL,FA_RES_OCC_TREMOR,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Abnormal Laboratory Value Supplemental,CE_FA_MH_H,Submitted,ig_CE_FA_MH_H_NL,FA_SUBCATEGORY2,10,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Abnormal Laboratory Value Supplemental,CE_FA_MH_H,Submitted,ig_CE_FA_MH_H_NL,FA_DESC_ALCHOLUSE,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbb_1,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Abnormal Laboratory Value Supplemental,CE_FA_MH_H,Submitted,ig_CE_FA_MH_H_NL,FA_RES_OCC_RECDRUG,Y,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Abnormal Laboratory Value Supplemental,CE_FA_MH_H,Submitted,ig_CE_FA_MH_H_NL,FA_DESC_RECDRUG,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbb_1,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Abnormal Laboratory Value Supplemental,CE_FA_MH_H,Submitted,ig_CE_FA_MH_H_NL,FA_DESC_TOCNTRY,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbb_1,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Abnormal Laboratory Value Supplemental,CE_FA_MH_H,Submitted,ig_CE_FA_MH_H_NL,FA_RES_OCC_ACUPUNCTR,N,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Abnormal Laboratory Value Supplemental,CE_FA_MH_H,Submitted,ig_CE_FA_MH_H_NL,FA_RES_OCC_LIVERDIS,Y,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Abnormal Laboratory Value Supplemental,CE_FA_MH_H,Submitted,ig_ce_fa_mh_h_nl2,TRIGGER_OTH_REL_HIST,Y,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Abnormal Laboratory Value Supplemental,CE_FA_MH_R,Submitted,ig_CE_FA_MH_R_NL,CE_DT1,2024-09-16,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Abnormal Laboratory Value Supplemental,CE_FA_MH_R,Submitted,ig_CE_FA_MH_R_NL,CE_TEST_NAME,10136,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Abnormal Laboratory Value Supplemental,CE_FA_MH_R,Submitted,ig_CE_FA_MH_R_NL,FA_RES_OCC_NONE,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Abnormal Laboratory Value Supplemental,CE_FA_MH_R,Submitted,ig_CE_FA_MH_R_NL,FA_RES_OCC_FLUIDRET,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Abnormal Laboratory Value Supplemental,CE_FA_MH_R,Submitted,ig_CE_FA_MH_R_NL,FA_RES_OCC_CHESTPAIN,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Abnormal Laboratory Value Supplemental,CE_FA_MH_R,Submitted,ig_CE_FA_MH_R_NL,FA_RES_OCC_CONFUSION,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Abnormal Laboratory Value Supplemental,CE_FA_MH_R,Submitted,ig_CE_FA_MH_R_NL,FA_RES_OCC_FATIGUE,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Abnormal Laboratory Value Supplemental,CE_FA_MH_R,Submitted,ig_CE_FA_MH_R_NL,FA_SUBCATEGORY2,10,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Abnormal Laboratory Value Supplemental,CE_FA_MH_R,Submitted,ig_CE_FA_MH_R_NL,FA_RES_OCC_DEHYDRAT,N,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Abnormal Laboratory Value Supplemental,CE_FA_MH_R,Submitted,ig_CE_FA_MH_R_NL,FA_RES_OCC_VOMITING,Y,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Abnormal Laboratory Value Supplemental,CE_FA_MH_R,Submitted,ig_CE_FA_MH_R_NL,FA_RES_OCC_DIARRHEA,N,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Abnormal Laboratory Value Supplemental,CE_FA_MH_R,Submitted,ig_CE_FA_MH_R_NL,FA_RES_OCC_RECNTINF,Y,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Abnormal Laboratory Value Supplemental,CE_FA_MH_R,Submitted,ig_CE_FA_MH_R_NL,TRIGGER_EXPOS_IVCNTR,N,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Abnormal Laboratory Value Supplemental,CE_FA_MH_R,Submitted,ig_CE_FA_MH_R_NL,TRIGGER_NEW_PRESCRIP1,Y,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Abnormal Laboratory Value Supplemental,CE_FA_MH_R,Submitted,ig_ce_fa_mh_r_l,APMH_RELATIONSHIP2,8,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Abnormal Laboratory Value Supplemental,CE_FA_MH_R,Submitted,ig_ce_fa_mh_r_nl2,TRIGGER_HIST_URISTNE,N,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,COVID-19 Vaccine Details,CM_CV19VAC,Blank,ig_CM_CV19VAC,CMTRT2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,COVID-19 Vaccine Details,CM_CV19VAC,Blank,ig_CM_CV19VAC,CMSTDAT1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,COVID-19 Vaccine Details,CM_CV19VAC,Blank,ig_CM_CV19VAC,_R_CMAERLYN,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,COVID-19 Vaccine Details,CM_CV19VAC,Blank,ig_CM_CV19VAC,_R_CMAESRYN,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,COVID-19 Vaccine Details,CM_CV19VAC,Blank,ig_CM_CV19VAC,CMLOT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,COVID-19 Vaccine Details,CM_CV19VAC,Blank,ig_CM_CV19VAC,CMCROUTE1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,COVID-19 Vaccine Details,CM_CV19VAC,Blank,ig_CM_CV19VAC,CMINDC,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,COVID-19 Vaccine Details,CM_CV19VAC,Blank,ig_CM_CV19VAC,CMCDSFRQ1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Concomitant Medications,CM_F,Submitted,ig_CM_F,CMTRT,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Concomitant Medications,CM_F,Submitted,ig_CM_F,CMTRT,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb_1,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Concomitant Medications,CM_F,Submitted,ig_CM_F,CMSTDAT,2024-09-16,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Concomitant Medications,CM_F,Submitted,ig_CM_F,CMSTDAT,2024-09-27,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Concomitant Medications,CM_F,Submitted,ig_CM_F,CMENDAT,2024-10-09,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Concomitant Medications,CM_F,Submitted,ig_CM_F,CMENDAT,2024-10-10,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Concomitant Medications,CM_F,Submitted,ig_CM_F,CMONGO,Y,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Concomitant Medications,CM_F,Submitted,ig_CM_F,CMONGO,nan,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Concomitant Medications,CM_F,Submitted,eg_cm_dose,CMDSTXT,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Concomitant Medications,CM_F,Submitted,eg_cm_dose,CMDSTXT,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbb_1,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Concomitant Medications,CM_F,Submitted,eg_cm_dose,CMCDOSU,030,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Concomitant Medications,CM_F,Submitted,eg_cm_dose,CMCDOSU,030,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Concomitant Medications,CM_F,Submitted,eg_concomitant_medications,CMCDSFRQ,2,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Concomitant Medications,CM_F,Submitted,eg_concomitant_medications,CMCDSFRQ,2,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Concomitant Medications,CM_F,Submitted,eg_concomitant_medications,CMCROUTE,64,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Concomitant Medications,CM_F,Submitted,eg_concomitant_medications,CMCROUTE,64,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Concomitant Medications,CM_F,Submitted,eg_concomitant_medications,CMINDC2,1,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Concomitant Medications,CM_F,Submitted,eg_concomitant_medications,CMINDC2,99,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Concomitant Medications,CM_F,Submitted,eg_concomitant_medications,CMPRSPTY,3,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Concomitant Medications,CM_F,Submitted,eg_concomitant_medications,CMPRSPTY,4,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Blank,ig_prior_medications1,CMCAT_C_OM1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Submitted,ig_prior_medications1,CMCAT_C_OM1,1,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Blank,ig_CM_F_PRIOR,CMTRT1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Submitted,ig_CM_F_PRIOR,CMTRT1,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa_1,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Blank,ig_CM_F_PRIOR,CMSTDAT2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Submitted,ig_CM_F_PRIOR,CMSTDAT2,2024-10-03,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Blank,ig_CM_F_PRIOR,CMENDAT2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Submitted,ig_CM_F_PRIOR,CMENDAT2,2024-10-11,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Blank,ig_CM_F_PRIOR,CMDSTXT1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Submitted,ig_CM_F_PRIOR,CMDSTXT1,111111111111111111111111111111111111111111111111111111111111,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Blank,ig_CM_F_PRIOR,CMCDOSU1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Submitted,ig_CM_F_PRIOR,CMCDOSU1,030,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Blank,ig_CM_F_PRIOR,CMCDSFRQ2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Submitted,ig_CM_F_PRIOR,CMCDSFRQ2,2,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Blank,ig_CM_F_PRIOR,CMCROUTE2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Submitted,ig_CM_F_PRIOR,CMCROUTE2,64,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Blank,ig_CM_F_PRIOR,CMINDC2_1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Submitted,ig_CM_F_PRIOR,CMINDC2_1,1,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Blank,ig_CM_F_PRIOR,CMPRSPTY2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Submitted,ig_CM_F_PRIOR,CMPRSPTY2,6,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Blank,ig_CM_F_PRIOR,CMREAD35,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Submitted,ig_CM_F_PRIOR,CMREAD35,true,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Blank,ig_CM_F_PRIOR,CMREAD36,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Submitted,ig_CM_F_PRIOR,CMREAD36,true,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Blank,ig_CM_F_PRIOR,CMREAD4,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Prior Medications,CM_F_PRIOR,Submitted,ig_CM_F_PRIOR,CMREAD4,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbb_1,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Death Details,DD_F,Submitted,ig_DD_F,DTHDAT,2025-09-15,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,Death Details,DD_F,Blank,ig_DD_F,DTHDAT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Death Details,DD_F,Submitted,ig_DD_F,DDRES_T_PRCDTH,1,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,Death Details,DD_F,Blank,ig_DD_F,DDRES_T_PRCDTH,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Death Details,DD_F,Submitted,ig_DD_F,DDRESOTH_T_PRCDTH,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbb_1,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,Death Details,DD_F,Blank,ig_DD_F,DDRESOTH_T_PRCDTH,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Death Details,DD_F,Submitted,ig_DD_F,DDRES_T_SRCIFDTH_1,N,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,Death Details,DD_F,Blank,ig_DD_F,DDRES_T_SRCIFDTH_1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Death Details,DD_F,Submitted,ig_DD_F,DDRES_T_SRCIFDTH_2,Y,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,Death Details,DD_F,Blank,ig_DD_F,DDRES_T_SRCIFDTH_2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Death Details,DD_F,Submitted,ig_DD_F,DDRES_T_SRCIFDTH_3,N,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,Death Details,DD_F,Blank,ig_DD_F,DDRES_T_SRCIFDTH_3,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Death Details,DD_F,Submitted,ig_DD_F,DDRES_T_SRCIFDTH_4,Y,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,Death Details,DD_F,Blank,ig_DD_F,DDRES_T_SRCIFDTH_4,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Death Details,DD_F,Submitted,ig_DD_F,DDRESOTH_T_SRCIFDTH,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbb_1,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,Death Details,DD_F,Blank,ig_DD_F,DDRESOTH_T_SRCIFDTH,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Death Details,DD_F,Submitted,ig_DD_F,DD_RES_DTH_COV19REL,N,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,Death Details,DD_F,Blank,ig_DD_F,DD_RES_DTH_COV19REL,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Demographics,DM_F,Submitted,ig_DM_F,_R_AGE,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Demographics,DM_F,Submitted,ig_DM_F,RACEW,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Demographics,DM_F,Submitted,ig_DM_F,RACEB,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Demographics,DM_F,Submitted,ig_DM_F,CRACE4,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Demographics,DM_F,Submitted,ig_DM_F,CRACE7,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Demographics,DM_F,Submitted,ig_DM_F,RACEI,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Date of Visit (Unscheduled),DOV3_F,Submitted,ig_DOV3_F,_R_VS,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Date of Visit (Unscheduled),DOV3_F,Submitted,ig_DOV3_F,_R_EG,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Date of Visit (Unscheduled),DOV3_F,Submitted,ig_DOV3_F,_R_HE,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Date of Visit (Unscheduled),DOV3_F,Submitted,ig_DOV3_F,_R_CH,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Date of Visit (Unscheduled),DOV3_F,Submitted,ig_DOV3_F,_R_UR,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Date of Visit (Unscheduled),DOV3_F,Submitted,ig_DOV3_F,_R_ENDO_UNS,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Date of Visit (Unscheduled),DOV3_F,Submitted,ig_DOV3_F,_R_SESCD,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Date of Visit (Unscheduled),DOV3_F,Submitted,ig_DOV3_F,_R_CDAI_UNS,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Date of Visit (Unscheduled),DOV3_F,Submitted,ig_DOV3_F,_R_RES_IND,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Date of Visit (Unscheduled),DOV3_F,Submitted,ig_DOV3_F,_R_RES_M,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Date of Visit (Unscheduled),DOV3_F,Submitted,ig_DOV3_F,_R_PREG,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Date of Visit (Unscheduled),DOV3_F,Submitted,ig_DOV3_F,_R_TB,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Date of Visit (Unscheduled),DOV3_F,Submitted,ig_DOV3_F,_R_MO,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_DCMDATE,2020-09-15,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_TYPE_VISIT,2,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_BDG_ADD,N,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_ENDO,Y,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_CDAI,N,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Date of Visit (1),DOV_F,Submitted,ig_DOV_F,_R_TRANSACTION_DT,2020-09-14,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Informed Consent,DS_IC_F,Submitted,ig_DS_IC_F,DSSTDAT_T_WTHDRAWN,2025-09-15,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,End of Study Treatment,DS_PRIM_F,Submitted,_DS_PRIM_F,DSSTDAT_C_DE_S_TX_SUBJ,nan,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,End of Study Treatment,DS_PRIM_F,Blank,_DS_PRIM_F,DSSTDAT_C_DE_S_TX_SUBJ,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Randomization,DS_RN_F,Blank,ig_DS_RN_F,DSCAT_C_PM,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Randomization,DS_RN_F,Blank,ig_DS_RN_F,RANDNO,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,End of Study,DS_STU_F,Blank,ig_DS_STU1,DSCDECOD_C_DE_S_S,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,End of Study,DS_STU_F,Submitted,ig_DS_STU1,DSCDECOD_C_DE_S_S,SDYTRMSP,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,Investigator/Site Unblinding,DS_UB_IN_F,Blank,ig_DS_UB_IN_F,DSUBROLE_C_OE_INV,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Investigator/Site Unblinding,DS_UB_IN_F,Submitted,ig_DS_UB_IN_F,DSUBROLE_C_OE_INV,1,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,Investigator/Site Unblinding,DS_UB_IN_F,Blank,ig_DS_UB_IN_F,DSSTDAT_C_OE_INV,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Investigator/Site Unblinding,DS_UB_IN_F,Submitted,ig_DS_UB_IN_F,DSSTDAT_C_OE_INV,2025-08-31,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,Investigator/Site Unblinding,DS_UB_IN_F,Blank,ig_DS_UB_IN_F,DSTERM_C_OE_INV,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Investigator/Site Unblinding,DS_UB_IN_F,Submitted,ig_DS_UB_IN_F,DSTERM_C_OE_INV,Aasdfghjkwertyui,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - IV,EC2_F,Blank,ig_EC2_F,ECTRT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - IV,EC2_F,Submitted,ig_EC2_F,ECTRT,68,2024-08-06
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - IV,EC2_F,Blank,ig_EC2_F,ECDOSFRM,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - IV,EC2_F,Submitted,ig_EC2_F,ECDOSFRM,76,2024-08-06
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - IV,EC2_F,Blank,ig_EC2_F,VISIT3,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - IV,EC2_F,Submitted,ig_EC2_F,VISIT3,I_BASELINE,2024-08-06
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - IV,EC2_F,Blank,ig_EC2_F,ECSTDAT_RANGE,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - IV,EC2_F,Submitted,ig_EC2_F,ECSTDAT_RANGE,2025-08-31,2024-08-06
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - IV,EC2_F,Blank,ig_EC2_F,ECSTTIM_RANGE,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - IV,EC2_F,Submitted,ig_EC2_F,ECSTTIM_RANGE,10:00,2024-08-06
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - IV,EC2_F,Blank,ig_EC2_F,ECENDAT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - IV,EC2_F,Submitted,ig_EC2_F,ECENDAT,2025-09-01,2024-08-06
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - IV,EC2_F,Blank,ig_EC2_F,ECENTIM,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - IV,EC2_F,Submitted,ig_EC2_F,ECENTIM,12:00,2024-08-06
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - IV,EC2_F,Blank,ig_EC2_F,ECDSTXT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - IV,EC2_F,Submitted,ig_EC2_F,ECDSTXT,99,2024-08-06
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - IV,EC2_F,Blank,ig_EC2_F,ECDOSU,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - IV,EC2_F,Submitted,ig_EC2_F,ECDOSU,012,2024-08-06
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - IV,EC2_F,Blank,ig_EC2_F,ECROUTE,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - IV,EC2_F,Submitted,ig_EC2_F,ECROUTE,39,2024-08-06
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - IV,EC2_F,Blank,ig_EC2_F,ECADJ,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - IV,EC2_F,Submitted,ig_EC2_F,ECADJ,2,2024-08-06
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - SC,EC_F,Submitted,ig_EC_F,ECTRT1,68,2024-08-06
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - SC,EC_F,Submitted,ig_EC_F,ECDOSFRM1,76,2024-08-06
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - SC,EC_F,Submitted,ig_EC_F,VISIT2,I_W6,2024-08-06
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - SC,EC_F,Submitted,ig_EC_F,ECSTDAT_SINGLE,2025-06-10,2024-08-06
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - SC,EC_F,Submitted,ig_EC_F,ECSTTIM_SINGLE,10:00,2024-08-06
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - SC,EC_F,Submitted,ig_EC_F,ECDSTXT2,29,2024-08-06
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - SC,EC_F,Submitted,ig_EC_F,ECREFID,nan,2024-08-06
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - SC,EC_F,Submitted,ig_EC_F,ECDOSU1,003,2024-08-06
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - SC,EC_F,Submitted,ig_EC_F,ECROUTE1,39,2024-08-06
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - SC,EC_F,Submitted,ig_EC_F,ECLOC,3,2024-08-06
+M20-371_DEV1,India,1001,SCR-0001,,Study Treatment Administration - SC,EC_F,Submitted,ig_EC_F,ECADJ1,2,2024-08-06
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_datetime,EGDAT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_datetime,EGTIM,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_datetime,EGPOS,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_heart_rate,EGORRES_T_HRMEAN,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_heart_rate,EGORRESU_T_HRMEAN,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_rr_interval,EGORRES_T_RRAG,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_rr_interval,EGORRESU_T_RRAG,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_pr_interval,EGORRES_T_PRAG,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_pr_interval,EGORRESU_T_PRAG,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_qrs_duration,EGORRES_T_QRSAG,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_qrs_duration,EGORRESU_T_QRSAG,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_qt_aggre,EGORRES_T_QTAG,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_qt_aggre,EGORRESU_T_QTAG,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_eg_f,EGORRES_T_INTP,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_eg_f,EGCLSIG_T_INTP,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_eg_f,EGRES_T_AVCOND_1STAVB,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_eg_f,EGRES_T_AXISVOLT_INDAXIS,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_eg_f,EGRES_T_AXISVOLT_RAXDV,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_eg_f,EGRES_T_AXISVOLT_LAXDV,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_eg_f,EGRES_T_CHYPTENL_LVHYP,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_eg_f,EGRES_T_CHYPTENL_RVHYP,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_eg_f,EGRES_T_CHYPTENL_LVHNS,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_eg_f,EGRES_T_STSTWUW_EREPL,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_eg_f,EGRES_T_STSTWUW_PQT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_eg_f,EGRES_T_STSTWUW_STDEP,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_eg_f,EGRES_T_STSTWUW_STELV,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_eg_f,EGRES_T_STSTWUW_TINV,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_eg_f,EGRES_T_STSTWUW_TPEAK,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_eg_f,EGRES_T_STSTWUW_TFLAT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_eg_f,EGRES_T_STSTWUW_TALT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_eg_f,EGRES_T_STSTWUW_TBIPH,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_eg_f,EGRES_T_STSTWUW_UABN,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_eg_f,EGRES_T_VTARRY_PVCI,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_eg_f,EGRES_T_SNRARRY_SBRDY,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_eg_f,EGRES_T_SNRARRY_STCHY,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_eg_f,EGRES_T_IVTIACD_RBBB,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Electrocardiogram,EG_F,Blank,ig_eg_f,EGRES_T_IVTIACD_RVCD,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Enrollment Failure,ENR_F,Submitted,ig_ENR_F,_R_ENROLLFAILYN,N,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Enrollment Failure,ENR_F,Submitted,ig_ENR_F,_R_AESCRYN,Y,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Enrollment Failure,ENR_F,Submitted,ig_ENR_F,_O_RATE1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,TB Risk Assessment Questionnaire,ER,Submitted,ig_ER,ER_TERM1,12,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Administration,EX_MINMAX,Blank,ig_ex_minmax,ABT_NUMBER,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Administration,EX_MINMAX,Submitted,ig_ex_minmax,ABT_NUMBER,76,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,Administration,EX_MINMAX,Blank,ig_ex_minmax,THERAPEUTIC_AREA,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Administration,EX_MINMAX,Submitted,ig_ex_minmax,THERAPEUTIC_AREA,IMMUNOLOGY,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,Administration,EX_MINMAX,Blank,ig_ex_minmax,SAE_IND_STUDY,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Administration,EX_MINMAX,Submitted,ig_ex_minmax,SAE_IND_STUDY,Y,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,Administration,EX_MINMAX,Blank,ig_ex_minmax,SAE_IND_NUMBER,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Administration,EX_MINMAX,Submitted,ig_ex_minmax,SAE_IND_NUMBER,155688,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,Administration,EX_MINMAX,Blank,ig_ex_minmax,SAE_CTA_STUDY,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Administration,EX_MINMAX,Submitted,ig_ex_minmax,SAE_CTA_STUDY,Y,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,Administration,EX_MINMAX,Blank,ig_ex_minmax,SAE_EUDRACT_NUM,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Administration,EX_MINMAX,Submitted,ig_ex_minmax,SAE_EUDRACT_NUM,2021-002869-18,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,Administration,EX_MINMAX,Blank,ig_ex_minmax,SAE_PHASE,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Administration,EX_MINMAX,Submitted,ig_ex_minmax,SAE_PHASE,8,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,Administration,EX_MINMAX,Blank,ig_ex_minmax,SAE_INDICATION,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Administration,EX_MINMAX,Submitted,ig_ex_minmax,SAE_INDICATION,Crohn's Disease,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,Administration,EX_MINMAX,Blank,ig_ex_minmax,DCMDATE_MIN,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Administration,EX_MINMAX,Submitted,ig_ex_minmax,DCMDATE_MIN,nan,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,Administration,EX_MINMAX,Blank,ig_ex_minmax,DCMDATE_MAX,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Administration,EX_MINMAX,Submitted,ig_ex_minmax,DCMDATE_MAX,nan,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,Administration,EX_MINMAX,Blank,ig_ex_minmax,EX_MIN_DT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Administration,EX_MINMAX,Submitted,ig_ex_minmax,EX_MIN_DT,nan,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,Administration,EX_MINMAX,Blank,ig_ex_minmax,EX_MAX_DT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Administration,EX_MINMAX,Submitted,ig_ex_minmax,EX_MAX_DT,nan,2024-10-09
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CELNKID,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CELNKID,nan,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,_R_AE_AI,Y,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,_R_AE_AI,U,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CEOCCUR_T_NAUSEA,ND,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CEOCCUR_T_NAUSEA,Y,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CESTDAT_T_NAUSEA,2024-09-16,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CESTDAT_T_NAUSEA,2024-10-10,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CEOCCUR_T_VOMIT,N,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CEOCCUR_T_VOMIT,N,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CESTDAT_T_VOMITING,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CESTDAT_T_VOMITING,2024-09-27,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CEOCCUR_T_LIGHTHEAD,Y,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CEOCCUR_T_LIGHTHEAD,ND,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CESTDAT_T_LIGHTHEAD,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CESTDAT_T_LIGHTHEAD,2024-10-09,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CEOCCUR_T_PALE,ND,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CEOCCUR_T_PALE,Y,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CESTDAT_T_PALE,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CESTDAT_T_PALE,2024-10-07,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CEOCCUR_T_UWTLOSS,N,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CEOCCUR_T_UWTLOSS,Y,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CESTDAT_T_UWTLOSS,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CESTDAT_T_UWTLOSS,2024-10-07,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CETERM_SP,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbb_1,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CETERM_SP,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbb_1,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CESTDAT,2024-09-17,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Adverse Event,FA_AE_AI,Submitted,ig_fa_ae_ai,CESTDAT,2023-10-10,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Submitted,ig_FA_AE_CV,TRIGGER_LINK_ID,1111111111111,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Blank,ig_FA_AE_CV,TRIGGER_LINK_ID,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Submitted,ig_FA_AE_CV,FA_LINK_ID,nan,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Blank,ig_FA_AE_CV,FA_LINK_ID,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Submitted,ig_FA_AE_CV,HO_OCCUR1,Y,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Blank,ig_FA_AE_CV,HO_OCCUR1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Submitted,ig_FA_AE_CV,HO_END_DT1,2024-10-11,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Blank,ig_FA_AE_CV,HO_END_DT1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Submitted,ig_FA_AE_CV,HO_OCCUR2,N,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Blank,ig_FA_AE_CV,HO_OCCUR2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Submitted,ig_FA_AE_CV,HO_START_TM2,12:00,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Blank,ig_FA_AE_CV,HO_START_TM2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Submitted,ig_FA_AE_CV,FA_RES_MSLOS_ARM_RT,N,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Blank,ig_FA_AE_CV,FA_RES_MSLOS_ARM_RT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Submitted,ig_FA_AE_CV,FA_RES_MSLOS_LEG_RT,N,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Blank,ig_FA_AE_CV,FA_RES_MSLOS_LEG_RT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Submitted,ig_FA_AE_CV,FA_RES_MSLOS_LEG_LT,Y,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Blank,ig_FA_AE_CV,FA_RES_MSLOS_LEG_LT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Submitted,ig_FA_AE_CV,FA_RES_HEMIANOPSIA,N,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Blank,ig_FA_AE_CV,FA_RES_HEMIANOPSIA,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Submitted,ig_FA_AE_CV,FA_RES_DIPLOPIA,Y,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Blank,ig_FA_AE_CV,FA_RES_DIPLOPIA,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Submitted,ig_FA_AE_CV,FA_RES_ACNFS_COG_CHG,N,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Blank,ig_FA_AE_CV,FA_RES_ACNFS_COG_CHG,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Submitted,ig_FA_AE_CV,FA_RES_DECR_CONSCIOU,Y,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Blank,ig_FA_AE_CV,FA_RES_DECR_CONSCIOU,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Submitted,ig_FA_AE_CV,FA_RES_PERF_ADL_WOA,N,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Cerebral Vascular Accident and Transient Ischemic Attack Adverse Event,FA_AE_CV,Blank,ig_FA_AE_CV,FA_RES_PERF_ADL_WOA,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF3,TRIGGER_LINK_ID1,nan,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF3,TRIGGER_LINK_ID1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF3,FA_LINK_ID1,nan,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF3,FA_LINK_ID1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF4,VS_DT,2024-09-25,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF4,VS_DT,2024-09-16,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF4,VS_BP_SYSTOLIC,72,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF4,VS_BP_SYSTOLIC,72,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF4,VS_BP_DIASTOLIC,62,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF4,VS_BP_DIASTOLIC,72,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF4,VS_BP_U,14,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF4,VS_BP_U,14,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF4,VS_PULSE,72,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF4,VS_PULSE,72,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF4,VS_PULSE_U,2,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF4,VS_PULSE_U,2,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF4,VS_RESP_RATE,34,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF4,VS_RESP_RATE,72,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF4,VS_RESP_RATE_U,3,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF4,VS_RESP_RATE_U,3,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF4,VS_TEMPERATURE,101,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF4,VS_TEMPERATURE,75,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF5,QS_DD_NAME,1,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF5,QS_DD_NAME,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF5,QS_DT,2024-09-25,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF5,QS_DT,2024-09-16,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF5,QS_REFID1,1,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF5,QS_REFID1,1,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF5,QS_NYHA_SCORE_C1,3,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF5,QS_NYHA_SCORE_C1,2,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,TRIGGER_AC,Y,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,TRIGGER_AC,Y,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,TRIGGER_ECCM,N,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,TRIGGER_ECCM,N,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,TRIGGER_IOD,Y,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,TRIGGER_IOD,Y,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,TRIGGER_UIVT,N,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,TRIGGER_UIVT,N,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,TRIGGER_NCM,Y,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,TRIGGER_NCM,Y,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,TRIGGER_IVD,N,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,TRIGGER_IVD,N,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,TRIGGER_INOT,Y,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,TRIGGER_INOT,Y,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,TRIGGER_IVV,N,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,TRIGGER_IVV,N,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,TRIGGER_MAD,Y,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,TRIGGER_MAD,Y,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,PR_INDICATION,1,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,PR_INDICATION,1,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,PR_OCCUR_IABP,N,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,PR_OCCUR_IABP,N,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,PR_OCCUR_VADI,Y,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,PR_OCCUR_VADI,Y,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,TRIGGER_MFR,N,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,TRIGGER_MFR,N,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,PR_OCCUR_ULTRAFIL,Y,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,PR_OCCUR_ULTRAFIL,Y,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,PR_OCCUR_HEMOFIL,N,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,PR_OCCUR_HEMOFIL,N,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,PR_OCCUR_DIALYSIS,Y,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,PR_OCCUR_DIALYSIS,Y,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,TRIGGER_OTH,N,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF,TRIGGER_OTH,N,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF2,FA_OBJECT,78,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF2,FA_OBJECT,78,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF2,FA_RES_SYMP_OUT,2,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF2,FA_RES_SYMP_OUT,2,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF2,LB_TEST_CD1,10090,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF2,LB_TEST_CD1,10090,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF2,LB_SAMPLE_DT1,2024-09-25,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF2,LB_SAMPLE_DT1,2024-09-16,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF2,LB_RESULT1,AAAAAAAAAAAAAAAAVVVV,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF2,LB_RESULT1,33333333333333333333,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF2,LB_RESULT1_U,582,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF2,LB_RESULT1_U,582,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF2,LB_TEST_CD21,10383,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF2,LB_TEST_CD21,10383,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF2,LB_SAMPLE_DT21,2024-09-25,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF2,LB_SAMPLE_DT21,2024-09-16,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF2,LB_RESULT21,1111111111111FFFFFFF,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF2,LB_RESULT21,33333333333333333333,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF2,LB_RESULT2_U,582,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Heart Failure Adverse Event,FA_AE_HF,Submitted,ig_FA_AE_HF2,LB_RESULT2_U,582,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Submitted,ig_FA_CATEGORY,FA_DT1,nan,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Blank,ig_FA_CATEGORY,FA_DT1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Submitted,ig_FA_CATEGORY,FA_OBJECT_1,328,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Blank,ig_FA_CATEGORY,FA_OBJECT_1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Submitted,ig_FA_CATEGORY,FA_RES_CS_FATIGUE,true,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Blank,ig_FA_CATEGORY,FA_RES_CS_FATIGUE,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Submitted,ig_FA_CATEGORY,FA_RES_CS_DARK_URINE,true,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Blank,ig_FA_CATEGORY,FA_RES_CS_DARK_URINE,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Submitted,ig_FA_CATEGORY,FA_RES_CS_PRURITIS,true,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Blank,ig_FA_CATEGORY,FA_RES_CS_PRURITIS,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Submitted,ig_FA_CATEGORY,FA_RES_CS_FEVER,true,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Blank,ig_FA_CATEGORY,FA_RES_CS_FEVER,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Submitted,ig_FA_CATEGORY,FA_RES_CS_ABD_PAIN,true,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Blank,ig_FA_CATEGORY,FA_RES_CS_ABD_PAIN,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Submitted,ig_FA_CATEGORY,FA_RES_CS_CONFUSION,true,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Blank,ig_FA_CATEGORY,FA_RES_CS_CONFUSION,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Submitted,ig_FA_CATEGORY,FA_RES_CS_ASTERIXIS,nan,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Blank,ig_FA_CATEGORY,FA_RES_CS_ASTERIXIS,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Submitted,ig_FA_CATEGORY,FA_RES_OCC_RECDRUG_1,Y,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Blank,ig_FA_CATEGORY,FA_RES_OCC_RECDRUG_1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Submitted,ig_FA_CATEGORY,TRIGGER_HST,3,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Blank,ig_FA_CATEGORY,TRIGGER_HST,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Submitted,ig_FA_CATEGORY,FA_RES_OCC_ACUPUNCTR_1,N,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Blank,ig_FA_CATEGORY,FA_RES_OCC_ACUPUNCTR_1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Submitted,ig_FA_CATEGORY,FA_DESC_ACUPUNCTR_1,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbb_1,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Blank,ig_FA_CATEGORY,FA_DESC_ACUPUNCTR_1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Submitted,ig_FA_CATEGORY,TRIGGER_OTE,Y,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Adverse Event,FA_AE_HP,Blank,ig_FA_CATEGORY,TRIGGER_OTE,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Adverse Event,FA_AE_RN,Submitted,ig_FA_AE_RN_NL,FA_RES_OCC_NONE,true,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Renal Adverse Event,FA_AE_RN,Submitted,ig_FA_AE_RN_NL,FA_RES_OCC_NONE,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Adverse Event,FA_AE_RN,Submitted,ig_FA_AE_RN_NL,FA_RES_OCC_FLUIDRET,true,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Renal Adverse Event,FA_AE_RN,Submitted,ig_FA_AE_RN_NL,FA_RES_OCC_FLUIDRET,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Adverse Event,FA_AE_RN,Submitted,ig_FA_AE_RN_NL,FA_RES_OCC_CHESTPAIN,true,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Renal Adverse Event,FA_AE_RN,Submitted,ig_FA_AE_RN_NL,FA_RES_OCC_CHESTPAIN,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Adverse Event,FA_AE_RN,Submitted,ig_FA_AE_RN_NL,FA_RES_OCC_CONFUSION,true,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Renal Adverse Event,FA_AE_RN,Submitted,ig_FA_AE_RN_NL,FA_RES_OCC_CONFUSION,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Adverse Event,FA_AE_RN,Submitted,ig_FA_AE_RN_NL,FA_RES_OCC_FATIGUE,true,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Renal Adverse Event,FA_AE_RN,Submitted,ig_FA_AE_RN_NL,FA_RES_OCC_FATIGUE,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Adverse Event,FA_AE_RN,Submitted,ig_FA_AE_RN_NL,FA_SUBCATEGORY2,10,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Renal Adverse Event,FA_AE_RN,Submitted,ig_FA_AE_RN_NL,FA_SUBCATEGORY2,10,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Adverse Event,FA_AE_RN,Submitted,ig_FA_AE_RN_NL,FA_RES_OCC_RECNTINF2,Y,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Renal Adverse Event,FA_AE_RN,Submitted,ig_FA_AE_RN_NL,FA_RES_OCC_RECNTINF2,Y,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Adverse Event,FA_AE_RN,Submitted,ig_fa_ae_rn_l,APMH_RELATIONSHIP2,1,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Renal Adverse Event,FA_AE_RN,Submitted,ig_fa_ae_rn_l,APMH_RELATIONSHIP2,20,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Adverse Event,FA_AE_RN,Submitted,ig_fa_ae_rn_nl2,TRIGGER_HIST_URISTNE,N,2024-09-27
+M20-371_DEV1,India,1001,SCR-0001,,Renal Adverse Event,FA_AE_RN,Submitted,ig_fa_ae_rn_nl2,TRIGGER_HIST_URISTNE,N,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Eligibility Criteria,IE_F,Blank,ig_IE_F,IECAT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Eligibility Criteria,IE_F,Blank,ig_IE_F,SCORRES_T_PROTVERE,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Eligibility Criteria,IE_F,Blank,ig_IE_F,_R_IEYN,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Eligibility Criteria,IE_F,Blank,ig_IE_F2,IECTESTCD,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Eligibility for Maintenance (1),IN_RESPONSE,Blank,ig_IN_RESPONSE,_O_RES_CDAI_INSCORE,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Eligibility for Maintenance (1),IN_RESPONSE,Blank,ig_IN_RESPONSE,_O_END_RESP,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Eligibility for Maintenance (1),IN_RESPONSE,Blank,ig_in_response2,_O_RES_RESCUE1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Eligibility for Maintenance (1),IN_RESPONSE,Blank,ig_in_response4,_O_RES_AMINO,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Eligibility for Maintenance (1),IN_RESPONSE,Blank,ig_in_response3,_O_RES_SUB,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Age At Sample Collection for Lab Normals,LAB_AGE_F,Blank,ig_LAB_AGE_F,_R_LAB_AGE,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Supplemental Local Labs,LB_HSLL,Blank,ig_LB_HSLL,LB_LAB_NAME_1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Supplemental Local Labs,LB_HSLL,Blank,ig_LB_HSLL,LB_SAMPLE_DT2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Supplemental Local Labs,LB_HSLL,Blank,ig_LB_HSLL,LB_SPECIMEN_SITE2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Supplemental Local Labs,LB_HSLL,Blank,ig_LB_HSLL,LB_RESULT2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Supplemental Local Labs,LB_HSLL,Blank,ig_LB_HSLL,LB_RANGE_HIGH2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Pregnancy Test (Urine) (2),LB_PREG2_F,Submitted,ig_LB_PREG2_F,LBORRES_T_HCG,1,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Pregnancy Test (Urine) (1),LB_PREG_F,Submitted,ig_LB_PREG1_F,LBRES_T_HCG,2,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Pregnancy Test (Urine) (1),LB_PREG_F,Submitted,ig_LB_PREG_F,LBREASND_T_HCG,3,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Supplemental Local Labs,LB_RSLL,Submitted,ig_LB_RSLL,TRIGGER_LAB_DATA_AE,Y,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Supplemental Local Labs,LB_RSLL,Submitted,ig_LB_RSLL,LB_LAB_NAME,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Supplemental Local Labs,LB_RSLL,Submitted,ig_LB_RSLL,LB_SAMPLE_TM,12:00,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Supplemental Local Labs,LB_RSLL,Submitted,ig_LB_RSLL,LB_TEST_CD,10732,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Supplemental Local Labs,LB_RSLL,Submitted,ig_LB_RSLL,LB_RESULT,12,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Local labs - Urine microscopy,LB_UM_F,Blank,ig_LB_UM_F_NL,LBCAT_C_UM,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Local labs - Urine microscopy,LB_UM_F,Blank,ig_LB_UM_F_NL,LBNAM,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Local labs - Urine microscopy,LB_UM_F,Blank,ig_LB_UM_F_NL,LBDAT2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Local labs - Urine microscopy,LB_UM_F,Blank,ig_LB_UM_F_NL,LBTIM2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Local labs - Urine microscopy,LB_UM_F,Blank,ig_LB_UM_F_NL,LBTPT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Local labs - Urine microscopy,LB_UM_F,Blank,ig_LB_UM_F_NL,LBSPEC3,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Local labs - Urine microscopy,LB_UM_F,Blank,ig_LB_UM_F_L,LBCTEST_UMICRO,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Local labs - Urine microscopy,LB_UM_F,Blank,ig_LB_UM_F_L,LBORRES_UMICRO,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Local labs - Urine microscopy,LB_UM_F,Blank,ig_LB_UM_F_L,LBORRESU_UMICRO,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Medical History,MH_F,Submitted,ig_MH2,MHONGO,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Medical History,MH_F,Submitted,ig_MH2,MHONGO,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Medical History,MH_F,Submitted,ig_MH2,_R_MHCTCYN,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Medical History,MH_F,Submitted,ig_MH2,_R_MHCTCYN,Y,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,MH_ONSET_DT,2022-09-23,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,PR_TRT,58,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,PR_START_DT,2022-09-25,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,CC_SUBCATEGORY,6,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,CC_RES_AGEDIAG,1,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,CC_RES_L1_ILEAL,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,CC_RES_L2_COLNICDISE,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,CC_RES_L3_ILEOCOLIC,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,CC_RES_L4_CMDSUPGIT,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,CC_RES_B1_NONSTPENE,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,CC_RES_B2_STENOSING,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,CC_RES_B3_PENETRTING,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease History,MH_PR_CC_CD,Submitted,ig_MH_PR_CC_CD,CC_RES_P_CMPRINLDIS,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Bone Mineral Density,MK_BMD,Submitted,ig_bd1,MKMETHOD_BMDA_1,2,16-08-2023
+M20-371_DEV1,India,1001,SCR-0001,,Bone Mineral Density,MK_BMD,Submitted,ig_MK_BMD,MKORRES_T_BMD_LS_1,1,16-08-2023
+M20-371_DEV1,India,1001,SCR-0001,,Bone Mineral Density,MK_BMD,Submitted,ig_MK_BMD,MKORRESU_T_BMD_LS_1,231,16-08-2023
+M20-371_DEV1,India,1001,SCR-0001,,Bone Mineral Density,MK_BMD,Submitted,ig_MK_BMD,MKORRES_T_BMD_FN_1,3,16-08-2023
+M20-371_DEV1,India,1001,SCR-0001,,Bone Mineral Density,MK_BMD,Submitted,ig_MK_BMD,MKORRESU_T_BMD_H_1,231,16-08-2023
+M20-371_DEV1,India,1001,SCR-0001,,Bone Mineral Density,MK_BMD,Submitted,ig_MK_BMD,MKLOC_BODYFAT1,106,16-08-2023
+M20-371_DEV1,India,1001,SCR-0001,,Bone Mineral Density,MK_BMD,Submitted,ig_MK_BMD,MKORRESU_T_FATMASS1,002,16-08-2023
+M20-371_DEV1,India,1001,SCR-0001,,Bone Mineral Density,MK_BMD,Submitted,ig_MK_BMD,_R_TBM_YN1,Y,16-08-2023
+M20-371_DEV1,India,1001,SCR-0001,,Bone Mineral Density,MK_BMD,Submitted,ig_MK_BMD,_R_LBP_YN1,N,16-08-2023
+M20-371_DEV1,India,1001,SCR-0001,,Bone Mineral Density,MK_BMD,Submitted,ig_MK_BMD,MKORRES_T_BODYLENP1,4,16-08-2023
+M20-371_DEV1,India,1001,SCR-0001,,Bone Mineral Density,MK_BMD,Submitted,ig_MK_BMD,MKORRESU_T_BODYLENP1,030,16-08-2023
+M20-371_DEV1,India,1001,SCR-0001,,Chest X-Ray,MO_XR,Blank,ig_Chest_X_Ray,MO_DT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Chest X-Ray,MO_XR,Blank,ig_Chest_X_Ray,MO_RES_PLEURAL_SCAR,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Chest X-Ray,MO_XR,Blank,ig_Chest_X_Ray,MO_RES_ACTIVE_TB,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Supplemental Procedure,PR_AESI_AI,Blank,ig_PR_AESI_AI,_R_PRCAT_C_PROC,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Supplemental Procedure,PR_AESI_AI,Blank,ig_PR_AESI_AI2,_R_PRSTDAT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Supplemental Procedure,PR_AESI_AI,Blank,ig_PR_AESI_AI2,Time,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Supplemental Procedure,PR_AESI_AI,Blank,ig_PR_AESI_AI2,_R_PRTRT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Adrenal Insufficiency Supplemental Procedure,PR_AESI_AI,Blank,ig_PR_AESI_AI2,_R_PRRSDSC,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Surgical History,PR_CDSH,Submitted,ig_PR_CDSH,PR_START_DT2,2020-10-09,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Crohn's Disease Surgical History,PR_CDSH,Submitted,ig_PR_CDSH,PR_TRT2,66,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Endoscopy,PR_ENDO,Blank,ig_PR_ENDO,PR_START_DT3,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Endoscopy,PR_ENDO,Blank,ig_PR_ENDO,PR_TRT3,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Endoscopy,PR_ENDO,Blank,ig_PR_ENDO,PR_TRT_BIOPSY_OBTN3,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Endoscopy,PR_ENDO,Blank,ig_PE_ENDO2,PR_INDC_DYSPL_COLONC3,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Endoscopy,PR_ENDO,Blank,ig_PE_ENDO2,PR_INDC_EXPL_RESRCH3,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Endoscopy,PR_ENDO,Blank,ig_PE_ENDO2,PR_NUM_BIOPSY3,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Endoscopy (Screening),PR_ENDOS,Blank,ig_PR_ENDOS2,PR_INDC_CONFM_DIAGN,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Hepatic Supplemental Procedure,PR_HSP,Submitted,ig_PR_HSP,_R_PR_RESULT,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbb_1aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbb_1aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbb_1,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Supplemental Procedure,PR_RSP,Blank,ig_PR_RSP,TRIGGER_PROC_AE2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Supplemental Procedure,PR_RSP,Blank,ig_PR_RSP,SSABSNO8,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Renal Supplemental Procedure,PR_RSP,Blank,ig_PR_RSP,_R_PR_RESULT2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_DD_NAME_SES_CD,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_STAT_TRANSV_CLN,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_STAT_RGT_CLN,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_SUBCATEGORY,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_REFID1_1,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_LOCATION,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_SESCD_RTM_SZU_C1,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_REFID3,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_LOCATION3,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_REFID4,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_REFID6,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_LOCATION7,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_REFID10,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_SESCD_ILM_USF_C10,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_REFID11,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_SESCD_RTM_ASF_C11,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_REFID12,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_SESCD_SLC_ASF_C12,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_REFID13,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_SESCD_TRC_ASF_C13,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_LOCATION14,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_REFID15,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_SESCD_ILM_ASF_C15,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_LOCATION16,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_SESCD_RTM_PRN_C16,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_REFID22,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_SESCD_SBT_USF_C22,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,QS_REFID24,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,SES-CD,QS_SES_CD,Blank,ig_QS_SES_CD,TRIGGER_ILEAL,nan,21-01-2025
+M20-371_DEV1,India,1001,SCR-0001,,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F,_R_PT_ID_REFER,2,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F2,_R_ST_PPR_CHRT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F2,_R_ST_EMR_HER,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F2,_R_ST_TRINETX,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F2,_R_ST_OTHER,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F2,_R_ST_DONT_KNOW,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_CLIN_REG,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_ABV,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_STDY_WB,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_SOC_MED,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_OTHER_AD,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbb_1,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_TV_AD,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_PRINT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_PHYS,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_FRIEND,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_COMMUN,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbb_1,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_PT_SUPP,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbb_1,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_OTHER,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbb_1,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Subject Recruitment,RECRUIT_F,Submitted,ig_RECRUIT_F3,_R_REF_DONT_REM,true,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Rescue Eligibility - Induction,RES_EY,Blank,ig_RES_EY,_O_RES_CDAI_SCORE_3,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Rescue Eligibility - Induction,RES_EY,Blank,ig_RES_EY,_O_RES_CDAI_INSCORE_3,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Rescue Eligibility - Induction,RES_EY,Blank,ig_rescue_eligibility_induction,_O_CLINSYM_3,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Rescue Eligibility - Induction,RES_EY,Blank,ig_rescue_eligibility_induction,_O_RES_HSCRP_3,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Rescue Eligibility - Induction,RES_EY,Blank,ig_rescue_eligibility_induction,_O_RES_FCP_3,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Rescue Eligibility - Induction,RES_EY,Blank,ig_rescue_eligibility_induction,_O_RES_SES_3,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Rescue Eligibility - Induction,RES_EY,Blank,ig_rescue_eligibility_induction,_O_RES_CRITERIA_3,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Rescue Eligibility - Induction,RES_EY,Blank,ig_rescue_eligibility_induction,_O_RES_RESCUE_3,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_ABT_NUMBER,76,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_ABT_NUMBER,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_DT,2025-07-28,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_DT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_SUBCATEGORY,1,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_SUBCATEGORY,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_PREG_PERTAINING,1,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_PREG_PERTAINING,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RPWASH,Y,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RPWASH,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,TRIGGER_MATRBIRTH_DT1,2025-07-28,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,TRIGGER_MATRBIRTH_DT1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_LMP_START_DT,2025-07-29,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_LMP_START_DT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_ESTMDLVRY_DT,2025-07-30,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_ESTMDLVRY_DT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RPORRES_T_EDLVMTH,2,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RPORRES_T_EDLVMTH,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_ENRLSUBPREG,Y,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_ENRLSUBPREG,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_PREG_NUM,0,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_PREG_NUM,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_NUM_FTRM_BRTH,2,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_NUM_FTRM_BRTH,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_FT_PREGLBCA,Y,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_FT_PREGLBCA,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RPORRES_T_CABNFTSP_F,HGFDS,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RPORRES_T_CABNFTSP_F,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_NUM_PTRM_BRTH,0,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_NUM_PTRM_BRTH,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_PT_PREGLBCA,Y,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_PT_PREGLBCA,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RPORRES_T_CABNPTSP_P,WERT,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RPORRES_T_CABNPTSP_P,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_ELE_ABORT_NUM,0,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_ELE_ABORT_NUM,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RPORRES_T_EABFEMAL_E,Y,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RPORRES_T_EABFEMAL_E,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RPORRES_T_EAFEMFSP_E,XCVB,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RPORRES_T_EAFEMFSP_E,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_SPT_ABORT_NUM,7,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_SPT_ABORT_NUM,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RPORRES_T_SBFEMAFO_E,Y,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RPORRES_T_SBFEMAFO_E,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RPORRES_T_SAFEMFSP_E,345,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RPORRES_T_SAFEMFSP_E,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_STILLBRTH_NUM,1,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_STILLBRTH_NUM,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_STILBRTH_LBCA,Y,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_STILBRTH_LBCA,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RPORRES_T_CABNSBSP_S,YTREW,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RPORRES_T_CABNSBSP_S,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_BCM_NCNTRUSE,true,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_BCM_NCNTRUSE,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RPRES_T_BCMETHOD_UN,true,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RPRES_T_BCMETHOD_UN,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_BCM_TUBLGTOCC,Y,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_BCM_TUBLGTOCC,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_BCM_HRMNLCNTR,Y,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_BCM_HRMNLCNTR,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_BCM_IUD,Y,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_BCM_IUD,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_BCM_CNTRSPG,Y,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_BCM_CNTRSPG,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_BCM_DOCCPS,Y,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_BCM_DOCCPS,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_BCM_CNDMSPRM,Y,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_BCM_CNDMSPRM,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_BCM_RHYTMTHD,Y,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_BCM_RHYTMTHD,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_BCM_PRTNRVAS,Y,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_BCM_PRTNRVAS,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RPRES_T_BCMETHOD_OT,Y,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RPRES_T_BCMETHOD_OT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_BCM_OTH_SP,XCVBN,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_BCM_OTH_SP,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,AP_RPCAT,2,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,AP_RPCAT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,_R_RP_CONTYN2,Y,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,_R_RP_CONTYN2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,APRP_RELATIONSHIP,2,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,APRP_RELATIONSHIP,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,APRP_LINK_ID,2,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,APRP_LINK_ID,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_FETALOUT,4,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_FETALOUT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,APRP_RES_FOUT_OTH_SP,nan,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,APRP_RES_FOUT_OTH_SP,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,APDM_DELIVERY_DT,2025-09-01,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,APDM_DELIVERY_DT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,APSC_RES_GABRT_WKS,3,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,APSC_RES_GABRT_WKS,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,APSC_RES_GABRT_WKS_U,569,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,APSC_RES_GABRT_WKS_U,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,APVS_BIRTH_WEIGHT,4,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,APVS_BIRTH_WEIGHT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,AP_VSORRESU_T_WEIGHT2,9,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,AP_VSORRESU_T_WEIGHT2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,APVS_BIRTH_LENGTH,34,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,APVS_BIRTH_LENGTH,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,AP_VSORRESU_T_BODLNGTH2,5,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,AP_VSORRESU_T_BODLNGTH2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,APDM_GENDER,F,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,APDM_GENDER,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_MCMPL_PREG,Y,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_MCMPL_PREG,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_MCMPL_PREG_SP,XCVB,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_MCMPL_PREG_SP,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,TRIGGER_MCMPL_INVSAE,Y,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,TRIGGER_MCMPL_INVSAE,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_BCMPL_INTV,Y,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_BCMPL_INTV,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,RP_RES_BCMPL_INTV_SP,SDFGH,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,RP_RES_BCMPL_INTV_SP,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,TRIGGER_BCMPL_INVSAE,Y,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,TRIGGER_BCMPL_INVSAE,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,APFA_RES_OCC_BRTHDEF,Y,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,APFA_RES_OCC_BRTHDEF,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,APFA_RES_BRTHDEFECT,ZXCVB,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,APFA_RES_BRTHDEFECT,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,APRP_RES_DGTSTPR_PER,Y,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,APRP_RES_DGTSTPR_PER,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,APRP_RES_DGTSTPROC1,ZXCVBN,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,APRP_RES_DGTSTPROC1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,APRP_RES_DGTSTPROC2,ASDFG,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,APRP_RES_DGTSTPROC2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Submitted,ig_RP_CDI,APRP_RES_DGTSTPROC3,WERTY,2024-10-30
+M20-371_DEV1,India,1001,SCR-0001,,Conception and Delivery Information - Subject Pregnancy,RP_CDISP_F,Blank,ig_RP_CDI,APRP_RES_DGTSTPROC3,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,COVID-19 Status,SS_CV19ST,Submitted,COVID_2,SSDTC_T_COV19ST,2024-08-31,25-10-2023
+M20-371_DEV1,India,1001,SCR-0001,,COVID-19 Status,SS_CV19ST,Submitted,COVID_2,SSORRES_T_COV19ST,1,25-10-2023
+M20-371_DEV1,India,1001,SCR-0001,,COVID-19 Status,SS_CV19ST,Submitted,COVID_2,SSCOLMTH_T_COV19ST,2,25-10-2023
+M20-371_DEV1,India,1001,SCR-0001,,COVID-19 Status,SS_CV19ST,Submitted,COVID_2,SSTSTTYP,2,25-10-2023
+M20-371_DEV1,India,1001,SCR-0001,,Nicotine and Alcohol Use,SU_F,Blank,ig_SU_F,SUCDURU,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Nicotine and Alcohol Use,SU_F,Blank,ig_SU_F,SUCAT_C_NU1,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Nicotine and Alcohol Use,SU_F,Blank,ig_SU_F,SUYN_T_NICOTINE,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Nicotine and Alcohol Use,SU_F,Blank,ig_SU_F,SUCAT_C_NU2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Nicotine and Alcohol Use,SU_F,Blank,ig_SU_F,SUNCF_T_PIPES,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Nicotine and Alcohol Use,SU_F,Blank,ig_SU_F,SUDOSFRQ_T_PIPES,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Nicotine and Alcohol Use,SU_F,Blank,ig_SU_F,SUENDAT_T_PIPES,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Nicotine and Alcohol Use,SU_F,Blank,ig_SU_F,SUDOSFRQ_T_CIGARS,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Nicotine and Alcohol Use,SU_F,Blank,ig_SU_F,SUNCF_T_SMOKELESS,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Nicotine and Alcohol Use,SU_F,Blank,ig_SU_F,_R_STLT_RECORDID2,nan,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Vital Signs,VS_F,Submitted,ig_vs_f,VSPOS_T_BP,1,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Vital Signs,VS_F,Submitted,ig_vs_f,VSORRES_T_SYSBP1,72,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Vital Signs,VS_F,Submitted,ig_vs_f,VSORRES_T_HR1,72,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Vital Signs,VS_F,Submitted,ig_vs_f,VSORRESU_T_HR,2,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Vital Signs,VS_F,Submitted,ig_vs_f,VSORRES_T_TEMP1,72,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,Vital Signs,VS_F,Submitted,ig_vs_f,VSORRESU_T_RESP,3,2025-01-21
+M20-371_DEV1,India,1001,SCR-0001,,COVID-19 Impacted Visit Information,YS_CV19IVI,Submitted,Covid_1,VISIT,I_W2,25-10-2023
+M20-371_DEV1,India,1001,SCR-0001,,COVID-19 Impacted Visit Information,YS_CV19IVI,Submitted,Covid_1,YSTERM_1,43,25-10-2023
+M20-371_DEV1,India,1001,SCR-0001,,COVID-19 Impacted Visit Information,YS_CV19IVI,Submitted,Covid_1,YSPREAS,1,25-10-2023
+M20-371_DEV1,India,1001,SCR-0013,,COVID-19 Impacted Visit Information,YS_CV19IVI,Submitted,Covid_1,VISIT,M_W24,17-05-2022
+M20-371_DEV1,India,1001,SCR-0013,,COVID-19 Impacted Visit Information,YS_CV19IVI,Submitted,Covid_1,YSTERM_1,44,17-05-2022
+M20-371_DEV1,India,1001,SCR-0013,,COVID-19 Impacted Visit Information,YS_CV19IVI,Submitted,Covid_1,YSPREAS,1,17-05-2022
+M20-371_DEV1,India,1001,SCR-0033,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,VISIT,nan,11-05-2022
+M20-371_DEV1,India,1001,SCR-0033,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,YSTERM_1,nan,11-05-2022
+M20-371_DEV1,India,1001,SCR-0033,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,YSPREAS,nan,11-05-2022
+M20-371_DEV1,India,1001,SCR-0034,,COVID-19 Status,SS_CV19ST,Blank,COVID_2,SSDTC_T_COV19ST,nan,19-05-2022
+M20-371_DEV1,India,1001,SCR-0034,,COVID-19 Status,SS_CV19ST,Blank,COVID_2,SSORRES_T_COV19ST,nan,19-05-2022
+M20-371_DEV1,India,1001,SCR-0034,,COVID-19 Status,SS_CV19ST,Blank,COVID_2,SSCOLMTH_T_COV19ST,nan,19-05-2022
+M20-371_DEV1,India,1001,SCR-0034,,COVID-19 Status,SS_CV19ST,Blank,COVID_2,SSTSTTYP,nan,19-05-2022
+M20-371_DEV1,India,1001,SCR-0034,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,VISIT,nan,19-05-2022
+M20-371_DEV1,India,1001,SCR-0034,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,YSTERM_1,nan,19-05-2022
+M20-371_DEV1,India,1001,SCR-0034,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,YSPREAS,nan,19-05-2022
+M20-371_DEV1,India,1001,SCR-0035,,COVID-19 Status,SS_CV19ST,In Edit,COVID_2,SSDTC_T_COV19ST,nan,23-05-2022
+M20-371_DEV1,India,1001,SCR-0035,,COVID-19 Status,SS_CV19ST,In Edit,COVID_2,SSORRES_T_COV19ST,nan,23-05-2022
+M20-371_DEV1,India,1001,SCR-0035,,COVID-19 Status,SS_CV19ST,In Edit,COVID_2,SSCOLMTH_T_COV19ST,nan,23-05-2022
+M20-371_DEV1,India,1001,SCR-0035,,COVID-19 Status,SS_CV19ST,In Edit,COVID_2,SSTSTTYP,nan,23-05-2022
+M20-371_DEV1,India,1001,SCR-0035,,COVID-19 Impacted Visit Information,YS_CV19IVI,Submitted,Covid_1,VISIT,nan,23-05-2022
+M20-371_DEV1,India,1001,SCR-0035,,COVID-19 Impacted Visit Information,YS_CV19IVI,Submitted,Covid_1,YSTERM_1,nan,23-05-2022
+M20-371_DEV1,India,1001,SCR-0035,,COVID-19 Impacted Visit Information,YS_CV19IVI,Submitted,Covid_1,YSPREAS,nan,23-05-2022
+M20-371_DEV1,India,1001,SCR-0047,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,VISIT,nan,24-05-2022
+M20-371_DEV1,India,1001,SCR-0047,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,YSTERM_1,nan,24-05-2022
+M20-371_DEV1,India,1001,SCR-0047,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,YSPREAS,nan,24-05-2022
+M20-371_DEV1,India,1001,SCR-0053,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,VISIT,nan,24-05-2022
+M20-371_DEV1,India,1001,SCR-0053,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,YSTERM_1,nan,24-05-2022
+M20-371_DEV1,India,1001,SCR-0053,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,YSPREAS,nan,24-05-2022
+M20-371_DEV1,India,1001,SCR-0054,,Bone Mineral Density,MK_BMD,Blank,ig_bd1,MKMETHOD_BMDA_1,nan,18-05-2022
+M20-371_DEV1,India,1001,SCR-0054,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRES_T_BMD_LS_1,nan,18-05-2022
+M20-371_DEV1,India,1001,SCR-0054,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRESU_T_BMD_LS_1,nan,18-05-2022
+M20-371_DEV1,India,1001,SCR-0054,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRES_T_BMD_FN_1,nan,18-05-2022
+M20-371_DEV1,India,1001,SCR-0054,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRESU_T_BMD_H_1,nan,18-05-2022
+M20-371_DEV1,India,1001,SCR-0054,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKLOC_BODYFAT1,nan,18-05-2022
+M20-371_DEV1,India,1001,SCR-0054,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRESU_T_FATMASS1,nan,18-05-2022
+M20-371_DEV1,India,1001,SCR-0054,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,_R_TBM_YN1,nan,18-05-2022
+M20-371_DEV1,India,1001,SCR-0054,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,_R_LBP_YN1,nan,18-05-2022
+M20-371_DEV1,India,1001,SCR-0054,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRES_T_BODYLENP1,nan,18-05-2022
+M20-371_DEV1,India,1001,SCR-0054,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRESU_T_BODYLENP1,nan,18-05-2022
+M20-371_DEV1,India,1001,SCR-0067,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,VISIT,nan,26-05-2022
+M20-371_DEV1,India,1001,SCR-0067,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,YSTERM_1,nan,26-05-2022
+M20-371_DEV1,India,1001,SCR-0067,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,YSPREAS,nan,26-05-2022
+M20-371_DEV1,India,1001,SCR-0069,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,VISIT,nan,03-05-2022
+M20-371_DEV1,India,1001,SCR-0069,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,YSTERM_1,nan,03-05-2022
+M20-371_DEV1,India,1001,SCR-0069,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,YSPREAS,nan,03-05-2022
+M20-371_DEV1,India,1001,SCR-0085,,Bone Mineral Density,MK_BMD,Blank,ig_bd1,MKMETHOD_BMDA_1,nan,18-05-2022
+M20-371_DEV1,India,1001,SCR-0085,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRES_T_BMD_LS_1,nan,18-05-2022
+M20-371_DEV1,India,1001,SCR-0085,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRESU_T_BMD_LS_1,nan,18-05-2022
+M20-371_DEV1,India,1001,SCR-0085,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRES_T_BMD_FN_1,nan,18-05-2022
+M20-371_DEV1,India,1001,SCR-0085,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRESU_T_BMD_H_1,nan,18-05-2022
+M20-371_DEV1,India,1001,SCR-0085,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKLOC_BODYFAT1,nan,18-05-2022
+M20-371_DEV1,India,1001,SCR-0085,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRESU_T_FATMASS1,nan,18-05-2022
+M20-371_DEV1,India,1001,SCR-0085,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,_R_TBM_YN1,nan,18-05-2022
+M20-371_DEV1,India,1001,SCR-0085,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,_R_LBP_YN1,nan,18-05-2022
+M20-371_DEV1,India,1001,SCR-0085,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRES_T_BODYLENP1,nan,18-05-2022
+M20-371_DEV1,India,1001,SCR-0085,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRESU_T_BODYLENP1,nan,18-05-2022
+M20-371_DEV1,India,1001,SCR-0101,,Bone Mineral Density,MK_BMD,Blank,ig_bd1,MKMETHOD_BMDA_1,nan,02-06-2022
+M20-371_DEV1,India,1001,SCR-0101,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRES_T_BMD_LS_1,nan,02-06-2022
+M20-371_DEV1,India,1001,SCR-0101,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRESU_T_BMD_LS_1,nan,02-06-2022
+M20-371_DEV1,India,1001,SCR-0101,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRES_T_BMD_FN_1,nan,02-06-2022
+M20-371_DEV1,India,1001,SCR-0101,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRESU_T_BMD_H_1,nan,02-06-2022
+M20-371_DEV1,India,1001,SCR-0101,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKLOC_BODYFAT1,nan,02-06-2022
+M20-371_DEV1,India,1001,SCR-0101,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRESU_T_FATMASS1,nan,02-06-2022
+M20-371_DEV1,India,1001,SCR-0101,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,_R_TBM_YN1,nan,02-06-2022
+M20-371_DEV1,India,1001,SCR-0101,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,_R_LBP_YN1,nan,02-06-2022
+M20-371_DEV1,India,1001,SCR-0101,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRES_T_BODYLENP1,nan,02-06-2022
+M20-371_DEV1,India,1001,SCR-0101,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRESU_T_BODYLENP1,nan,02-06-2022
+M20-371_DEV1,India,1001,SCR-0158,,COVID-19 Status,SS_CV19ST,Blank,COVID_2,SSDTC_T_COV19ST,nan,14-06-2022
+M20-371_DEV1,India,1001,SCR-0158,,COVID-19 Status,SS_CV19ST,Blank,COVID_2,SSORRES_T_COV19ST,nan,14-06-2022
+M20-371_DEV1,India,1001,SCR-0158,,COVID-19 Status,SS_CV19ST,Blank,COVID_2,SSCOLMTH_T_COV19ST,nan,14-06-2022
+M20-371_DEV1,India,1001,SCR-0158,,COVID-19 Status,SS_CV19ST,Blank,COVID_2,SSTSTTYP,nan,14-06-2022
+M20-371_DEV1,India,1001,SCR-0158,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,VISIT,nan,14-06-2022
+M20-371_DEV1,India,1001,SCR-0158,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,YSTERM_1,nan,14-06-2022
+M20-371_DEV1,India,1001,SCR-0158,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,YSPREAS,nan,14-06-2022
+M20-371_DEV1,India,1001,SCR-0169,,COVID-19 Status,SS_CV19ST,Blank,COVID_2,SSDTC_T_COV19ST,nan,01-06-2022
+M20-371_DEV1,India,1001,SCR-0169,,COVID-19 Status,SS_CV19ST,Blank,COVID_2,SSORRES_T_COV19ST,nan,01-06-2022
+M20-371_DEV1,India,1001,SCR-0169,,COVID-19 Status,SS_CV19ST,Blank,COVID_2,SSCOLMTH_T_COV19ST,nan,01-06-2022
+M20-371_DEV1,India,1001,SCR-0169,,COVID-19 Status,SS_CV19ST,Blank,COVID_2,SSTSTTYP,nan,01-06-2022
+M20-371_DEV1,India,1001,SCR-0169,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,VISIT,nan,01-06-2022
+M20-371_DEV1,India,1001,SCR-0169,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,YSTERM_1,nan,01-06-2022
+M20-371_DEV1,India,1001,SCR-0169,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,YSPREAS,nan,01-06-2022
+M20-371_DEV1,India,1001,SCR-0178,,COVID-19 Status,SS_CV19ST,Blank,COVID_2,SSDTC_T_COV19ST,nan,01-06-2022
+M20-371_DEV1,India,1001,SCR-0178,,COVID-19 Status,SS_CV19ST,Blank,COVID_2,SSORRES_T_COV19ST,nan,01-06-2022
+M20-371_DEV1,India,1001,SCR-0178,,COVID-19 Status,SS_CV19ST,Blank,COVID_2,SSCOLMTH_T_COV19ST,nan,01-06-2022
+M20-371_DEV1,India,1001,SCR-0178,,COVID-19 Status,SS_CV19ST,Blank,COVID_2,SSTSTTYP,nan,01-06-2022
+M20-371_DEV1,India,1001,SCR-0178,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,VISIT,nan,01-06-2022
+M20-371_DEV1,India,1001,SCR-0178,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,YSTERM_1,nan,01-06-2022
+M20-371_DEV1,India,1001,SCR-0178,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,YSPREAS,nan,01-06-2022
+M20-371_DEV1,India,1001,SCR-0183,,COVID-19 Status,SS_CV19ST,Submitted,COVID_2,SSDTC_T_COV19ST,2022-07-08,30-06-2022
+M20-371_DEV1,India,1001,SCR-0183,,COVID-19 Status,SS_CV19ST,Submitted,COVID_2,SSORRES_T_COV19ST,nan,30-06-2022
+M20-371_DEV1,India,1001,SCR-0183,,COVID-19 Status,SS_CV19ST,Submitted,COVID_2,SSCOLMTH_T_COV19ST,nan,30-06-2022
+M20-371_DEV1,India,1001,SCR-0183,,COVID-19 Status,SS_CV19ST,Submitted,COVID_2,SSTSTTYP,nan,30-06-2022
+M20-371_DEV1,India,1001,SCR-0183,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,VISIT,nan,30-06-2022
+M20-371_DEV1,India,1001,SCR-0183,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,VISIT,nan,01-07-2022
+M20-371_DEV1,India,1001,SCR-0183,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,YSTERM_1,nan,30-06-2022
+M20-371_DEV1,India,1001,SCR-0183,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,YSTERM_1,nan,01-07-2022
+M20-371_DEV1,India,1001,SCR-0183,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,YSPREAS,nan,30-06-2022
+M20-371_DEV1,India,1001,SCR-0183,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,YSPREAS,nan,01-07-2022
+M20-371_DEV1,India,1001,SCR-0215,,COVID-19 Status,SS_CV19ST,Blank,COVID_2,SSDTC_T_COV19ST,nan,06-02-2025
+M20-371_DEV1,India,1001,SCR-0215,,COVID-19 Status,SS_CV19ST,Blank,COVID_2,SSORRES_T_COV19ST,nan,06-02-2025
+M20-371_DEV1,India,1001,SCR-0215,,COVID-19 Status,SS_CV19ST,Blank,COVID_2,SSCOLMTH_T_COV19ST,nan,06-02-2025
+M20-371_DEV1,India,1001,SCR-0215,,COVID-19 Status,SS_CV19ST,Blank,COVID_2,SSTSTTYP,nan,06-02-2025
+M20-371_DEV1,India,1001,SCR-0215,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,VISIT,nan,06-02-2025
+M20-371_DEV1,India,1001,SCR-0215,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,YSTERM_1,nan,06-02-2025
+M20-371_DEV1,India,1001,SCR-0215,,COVID-19 Impacted Visit Information,YS_CV19IVI,Blank,Covid_1,YSPREAS,nan,06-02-2025
+M20-371_DEV1,India,1001,SCR-0220,,COVID-19 Status,SS_CV19ST,Blank,COVID_2,SSDTC_T_COV19ST,nan,25-10-2023
+M20-371_DEV1,India,1001,SCR-0220,,COVID-19 Status,SS_CV19ST,Blank,COVID_2,SSORRES_T_COV19ST,nan,25-10-2023
+M20-371_DEV1,India,1001,SCR-0220,,COVID-19 Status,SS_CV19ST,Blank,COVID_2,SSCOLMTH_T_COV19ST,nan,25-10-2023
+M20-371_DEV1,India,1001,SCR-0220,,COVID-19 Status,SS_CV19ST,Blank,COVID_2,SSTSTTYP,nan,25-10-2023
+M20-371_DEV1,India,1001,SCR-0222,,Bone Mineral Density,MK_BMD,Blank,ig_bd1,MKMETHOD_BMDA_1,nan,12-08-2025
+M20-371_DEV1,India,1001,SCR-0222,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRES_T_BMD_LS_1,nan,12-08-2025
+M20-371_DEV1,India,1001,SCR-0222,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRESU_T_BMD_LS_1,nan,12-08-2025
+M20-371_DEV1,India,1001,SCR-0222,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRES_T_BMD_FN_1,nan,12-08-2025
+M20-371_DEV1,India,1001,SCR-0222,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRESU_T_BMD_H_1,nan,12-08-2025
+M20-371_DEV1,India,1001,SCR-0222,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKLOC_BODYFAT1,nan,12-08-2025
+M20-371_DEV1,India,1001,SCR-0222,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRESU_T_FATMASS1,nan,12-08-2025
+M20-371_DEV1,India,1001,SCR-0222,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,_R_TBM_YN1,nan,12-08-2025
+M20-371_DEV1,India,1001,SCR-0222,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,_R_LBP_YN1,nan,12-08-2025
+M20-371_DEV1,India,1001,SCR-0222,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRES_T_BODYLENP1,nan,12-08-2025
+M20-371_DEV1,India,1001,SCR-0222,,Bone Mineral Density,MK_BMD,Blank,ig_MK_BMD,MKORRESU_T_BODYLENP1,nan,12-08-2025
