@@ -39,7 +39,7 @@ const InputPanel = ({ setSnackbar }) => {
       });
       return;
     }
-
+       //try catch block for fetch
     try {
       const fd = new FormData();
       fd.append("studyId", form.studyId);
