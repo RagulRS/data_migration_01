@@ -68,8 +68,8 @@ def api_migrate():
         target_spec_with_occurrence_file = "./data/target_spec_with_occurrence.xlsx"
 
         transformed_output_file = DATA_DIR / "transformed_output.csv"
-        failed_items_output_file = DATA_DIR / "failed_items_output.txt"
-        output_log_file = DATA_DIR / "output_log.txt"
+        # failed_items_output_file = DATA_DIR / "failed_items_output.txt"
+        # output_log_file = DATA_DIR / "output_log.txt"
 
         # 1) Compare specs
         compare_res = comp_mod.compare_specifications(
@@ -95,7 +95,7 @@ def api_migrate():
             "VAULT_DNS": "sb-cognizant-cdms.veevavault.com",
             "API_VERSION": "v23.2",
             "USERNAME": "Vigneshwaran.P_SD@sb-cognizant.com",
-            "PASSWORD": "Vikkyda@0108..."
+            "PASSWORD": "Chennai@2025"
         }
 
         if not (vault_config["VAULT_DNS"] and vault_config["USERNAME"] and vault_config["PASSWORD"]):
@@ -105,13 +105,14 @@ def api_migrate():
             new_subj_list = [(s[1] if s[1] else s[0]) for s in subject_mappings]
             vault_res = vault_mod.migrate_to_vault(
                 transformed_output_file=transformed_output_file,
-                study_name=study_id,
-                site_number=site_id,
-                study_country=site_country,
+                STUDY_NAME=study_id,
+                SITE_NUMBER=site_id,
+                STUDY_COUNTRY=site_country,
                 old_subj_list=old_subj_list,
                 new_subj_list=new_subj_list,
                 data_dir=DATA_DIR,
-                vault_config=vault_config
+                vault_config=vault_config,
+                target_spec=target_spec_path
             )
 
         resp = {
